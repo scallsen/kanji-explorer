@@ -32,12 +32,13 @@ scripts/download_data.sh          # kanjidic2, JMdict_e, krad.json into data/raw
 
 ## Deploy
 
-Deployed on Vercel as a single Python serverless function (`api/index.py`
-wraps the Flask app; `vercel.json` rewrites every path to it). Set the same
-env vars as `.env.example` plus `DAYTONA_SANDBOX_ID` so every cold start
-reuses one sandbox instead of creating a new one. Daytona auto-stops idle
-sandboxes; the server restarts it on demand (a few seconds on the first
-query after a quiet period).
+Live at <https://kanji-explorer.vercel.app>. Vercel auto-detects the Flask
+app in `server.py` and runs it as one Python function, no `vercel.json`
+needed (adding a catch-all rewrite actually breaks it: Flask then sees the
+rewritten path). Set the same env vars as `.env.example` plus
+`DAYTONA_SANDBOX_ID` so every cold start reuses one sandbox instead of
+creating a new one. Daytona auto-stops idle sandboxes; the server restarts
+it on demand (a few seconds on the first query after a quiet period).
 
 ## Layout
 
