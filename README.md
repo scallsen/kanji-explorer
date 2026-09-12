@@ -1,5 +1,7 @@
 # Kanji Explorer
 
+<img width="1241" height="722" alt="image" src="https://github.com/user-attachments/assets/a935bdca-8cf6-409e-aa44-b6b4915e40cc" />
+
 Pick a kanji, see what it is made of, click a radical, see every other kanji
 that uses it, keep going. A graph explorer for the 642 kanji taught in
 Japanese elementary grades 1–4, built for Daytona HackSprint Tokyo (Sept 2026).
@@ -12,6 +14,8 @@ Japanese elementary grades 1–4, built for Daytona HackSprint Tokyo (Sept 2026)
   you want sandboxed.
 - Dark pixel UI in the style of [Lantern](https://github.com/scallsen/lantern):
   DotGothic16, one accent colour, hard shadows. vis-network for the graph.
+
+<img width="1242" height="719" alt="image" src="https://github.com/user-attachments/assets/bb922792-199f-4382-ae72-7bbd201b84b0" />
 
 ## Run it locally
 
