@@ -1,6 +1,11 @@
 data/raw/
-.sandbox_id
 __pycache__/
 *.pyc
 .venv/
 .env
+.env.local
+.env.*.local
+.sandbox_id
+.claude/worktrees/
+.vercel
+node_modules/

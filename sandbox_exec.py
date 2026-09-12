@@ -11,7 +11,7 @@ every demo answer).
 import json
 import os
 
-from daytona import CodeRunParams, CreateSandboxFromImageParams, Daytona, DaytonaConfig
+from daytona import CodeRunParams, CreateSandboxFromImageParams, Daytona, DaytonaConfig, SandboxState
 
 SANDBOX_ID_FILE = os.path.join(os.path.dirname(__file__), ".sandbox_id")
 
@@ -24,11 +24,25 @@ def get_daytona_client():
     return Daytona(DaytonaConfig(api_key=os.environ["DAYTONA_API_KEY"]))
 
 
-def get_or_create_sandbox(client):
+def _cached_sandbox_id():
+    """DAYTONA_SANDBOX_ID env var wins (serverless hosts have no persistent
+    disk); otherwise the .sandbox_id file written on first local run."""
+    if os.environ.get("DAYTONA_SANDBOX_ID"):
+        return os.environ["DAYTONA_SANDBOX_ID"].strip()
     if os.path.exists(SANDBOX_ID_FILE):
-        sandbox_id = open(SANDBOX_ID_FILE).read().strip()
+        return open(SANDBOX_ID_FILE).read().strip()
+    return None
+
+
+def get_or_create_sandbox(client):
+    sandbox_id = _cached_sandbox_id()
+    if sandbox_id:
         try:
-            return client.get(sandbox_id)
+            sandbox = client.get(sandbox_id)
+            if sandbox.state != SandboxState.STARTED:
+                # Daytona auto-stops idle sandboxes; wake it (a few seconds).
+                sandbox.start(timeout=60)
+            return sandbox
         except Exception:
             pass  # stale id (sandbox expired/deleted) -- fall through and create a new one
 
@@ -41,23 +55,27 @@ def get_or_create_sandbox(client):
         domain_allow_list=f"{host},pypi.org,files.pythonhosted.org",
     ))
     sandbox.process.exec("pip install -q requests", timeout=60)
-    with open(SANDBOX_ID_FILE, "w") as f:
-        f.write(sandbox.id)
+    try:
+        with open(SANDBOX_ID_FILE, "w") as f:
+            f.write(sandbox.id)
+    except OSError:
+        pass  # read-only filesystem (Vercel); set DAYTONA_SANDBOX_ID instead
     return sandbox
 
 
-def run_cypher(sandbox, cypher):
+def run_cypher(sandbox, cypher, params=None):
     """Executes `cypher` inside the sandbox via Neo4j's HTTP Query API.
     Returns a list of row dicts. Raises RuntimeError on any Neo4j-reported
     or transport error (caller can feed the message back to the LLM retry).
     """
     host = _neo4j_host()
+    payload = {"statement": cypher, "parameters": params or {}}
     code = f"""
 import os, json, requests
 resp = requests.post(
     "https://{host}/db/" + os.environ["NEO4J_USER"] + "/query/v2",
     auth=(os.environ["NEO4J_USER"], os.environ["NEO4J_PASSWORD"]),
-    json={{"statement": {json.dumps(cypher)}}},
+    json={json.dumps(payload)},
     timeout=15,
 )
 print(json.dumps({{"status": resp.status_code, "body": resp.json()}}))

@@ -1,67 +1,147 @@
 <!doctype html>
-<html>
+<html lang="en" translate="no" class="notranslate">
 <head>
 <meta charset="utf-8">
-<title>Kanji Radical Graph Explorer</title>
-<style>
-  body { font-family: -apple-system, sans-serif; max-width: 640px; margin: 60px auto; padding: 0 20px; color: #222; }
-  h1 { font-size: 20px; }
-  input { width: 100%; font-size: 16px; padding: 10px; box-sizing: border-box; }
-  button { margin-top: 10px; padding: 10px 16px; font-size: 15px; cursor: pointer; }
-  #answer { margin-top: 24px; font-size: 17px; line-height: 1.5; white-space: pre-wrap; }
-  #cypher { margin-top: 16px; background: #f4f4f4; padding: 10px; font-family: monospace; font-size: 13px; white-space: pre-wrap; display: none; }
-  #status { margin-top: 12px; color: #888; font-size: 14px; }
-  details summary { cursor: pointer; color: #666; font-size: 13px; margin-top: 16px; }
-</style>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="google" content="notranslate">
+<meta name="theme-color" content="#1E1E1E">
+<title>Kanji Explorer</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8' shape-rendering='crispEdges'%3E%3Crect width='8' height='8' fill='%231E1E1E'/%3E%3Cpath fill='%23FF004D' d='M1 1h6v1H1zM3 2h2v1H3zM1 3h6v1H1zM2 4h1v3H2zM5 4h1v3H5zM3 6h2v1H3z'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DotGothic16&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<script src="https://cdn.jsdelivr.net/npm/vis-network@9.1.9/standalone/umd/vis-network.min.js"></script>
 </head>
 <body>
-  <h1>Kanji Radical Graph Explorer</h1>
-  <input id="q" placeholder="e.g. what other kanji share a radical with 待" autofocus>
-  <button id="ask">Ask</button>
-  <div id="status"></div>
-  <div id="answer"></div>
-  <details id="cypherWrap" style="display:none">
-    <summary>Generated Cypher</summary>
-    <div id="cypher"></div>
-  </details>
+<div class="wrap">
+  <header class="top">
+    <svg class="logo" viewBox="0 0 8 8" shape-rendering="crispEdges" aria-hidden="true">
+      <rect width="8" height="8" fill="#313131"/>
+      <path fill="#FF004D" d="M1 1h6v1H1zM3 2h2v1H3zM1 3h6v1H1zM2 4h1v3H2zM5 4h1v3H5zM3 6h2v1H3z"/>
+    </svg>
+    <h1>Kanji Explorer <span>/ radicals</span></h1>
+    <div class="stack">graph: <b>Neo4j AuraDB</b><br>queries run in: <b>Daytona sandbox</b></div>
+  </header>
 
-<script>
-const q = document.getElementById('q');
-const btn = document.getElementById('ask');
-const status = document.getElementById('status');
-const answer = document.getElementById('answer');
-const cypherWrap = document.getElementById('cypherWrap');
-const cypher = document.getElementById('cypher');
+  <!-- ── 1. pick a kanji ─────────────────────────────────────────── -->
+  <section id="picker">
+    <div class="search-row">
+      <input id="search" class="search" type="text" autocomplete="off" spellcheck="false"
+             placeholder="Type a kanji, a meaning, or a reading — e.g. 待 / wait / まつ">
+      <div id="suggest" class="suggest" hidden></div>
+    </div>
+    <div id="browse" class="browse">
+      <div class="browse-head">
+        <div class="label">Browse by grade</div>
+        <button class="chip on" data-grade="1">Grade 1</button>
+        <button class="chip" data-grade="2">Grade 2</button>
+        <button class="chip" data-grade="3">Grade 3</button>
+        <button class="chip" data-grade="4">Grade 4</button>
+        <span id="browseCount" class="hint" style="margin-left:auto"></span>
+      </div>
+      <div id="browseGrid" class="tile-grid"></div>
+    </div>
+  </section>
 
-async function ask() {
-  const question = q.value.trim();
-  if (!question) return;
-  btn.disabled = true;
-  status.textContent = 'Thinking...';
-  answer.textContent = '';
-  cypherWrap.style.display = 'none';
-  try {
-    const res = await fetch('/ask', {
-      method: 'POST',
-      headers: {'Content-Type': 'application/json'},
-      body: JSON.stringify({question}),
-    });
-    const data = await res.json();
-    if (!res.ok) throw new Error(data.error || 'request failed');
-    status.textContent = `${data.rows.length} result(s)`;
-    answer.textContent = data.answer;
-    cypher.textContent = data.cypher;
-    cypherWrap.style.display = 'block';
-  } catch (e) {
-    status.textContent = '';
-    answer.textContent = 'Error: ' + e.message;
-  } finally {
-    btn.disabled = false;
-  }
-}
+  <!-- ── 2. what is this kanji made of ───────────────────────────── -->
+  <section id="detail" hidden>
+    <div id="trail" class="trail"></div>
 
-btn.addEventListener('click', ask);
-q.addEventListener('keydown', (e) => { if (e.key === 'Enter') ask(); });
-</script>
+    <div class="card">
+      <div class="hero">
+        <div class="hero-kanji"><span class="g" id="heroGrade"></span><span id="heroChar" lang="ja"></span></div>
+        <div class="hero-meta">
+          <div>
+            <h2 id="heroMeaning"></h2>
+            <div id="heroAlt" class="alt"></div>
+          </div>
+          <div class="readings">
+            <div><span>ON</span><span id="heroOn" class="on" lang="ja"></span></div>
+            <div><span>KUN</span><span id="heroKun" class="kun" lang="ja"></span></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="madeof">
+        <div class="label">Made of</div>
+        <div id="equation" class="equation"></div>
+        <div id="radHint" class="hint" style="margin-top:8px">Hover a radical to see how many other kanji use it. Click it to list them.</div>
+      </div>
+
+      <div id="radResults" class="rad-results" hidden>
+        <div class="label">Kanji using <b id="radResultsChar" lang="ja"></b><span id="radResultsCount" class="count"></span></div>
+        <div id="radResultsGrid" class="tile-grid"></div>
+      </div>
+    </div>
+
+    <!-- ── secondary: keep exploring ─────────────────────────────── -->
+    <nav class="tabs" id="tabs">
+      <button class="tab on" data-tab="graph">Explore graph</button>
+      <button class="tab" data-tab="related">Related kanji</button>
+      <button class="tab" data-tab="words">Words</button>
+      <button class="tab" data-tab="ask">Ask AI</button>
+    </nav>
+
+    <div class="panel" data-panel="graph">
+      <div class="graph-bar">
+        <div class="legend">
+          <span><i class="lk"></i>kanji</span>
+          <span><i class="lr"></i>radical (its colour = its edges)</span>
+          <span><i class="ls"></i>current</span>
+          <span><i class="lu"></i>unexplored — click to expand</span>
+        </div>
+        <button id="graphFit" class="btn ghost" style="margin-left:auto">fit</button>
+        <button id="graphReset" class="btn ghost">reset</button>
+      </div>
+      <div id="graph"></div>
+      <div id="hud" class="hud">
+        <div class="hud-k" id="hudChar" lang="ja"></div>
+        <div class="hud-body">
+          <div id="hudTitle">Explore</div>
+          <div id="hudSub" class="hud-sub">Click a node to expand it. Double-click a kanji to open it.</div>
+        </div>
+        <button id="hudOpen" class="btn primary" hidden>open</button>
+      </div>
+    </div>
+
+    <div class="panel" data-panel="related" hidden>
+      <div class="label">Kanji that share a radical with <b id="relatedChar" lang="ja"></b></div>
+      <div id="relatedHint" class="hint"></div>
+      <div id="relatedGrid" class="tile-grid related-grid"></div>
+    </div>
+
+    <div class="panel" data-panel="words" hidden>
+      <div class="label">Words using <b id="wordsChar" lang="ja"></b></div>
+      <div id="wordsHint" class="hint"></div>
+      <ul id="wordsList" class="words"></ul>
+    </div>
+
+    <div class="panel" data-panel="ask" hidden>
+      <div class="label">Custom search · Claude writes the Cypher, the sandbox runs it</div>
+      <div class="ask-row">
+        <input id="askInput" class="search" type="text" placeholder="e.g. which grade 2 kanji share the most radicals with 海?">
+        <button id="askBtn" class="btn primary">Ask</button>
+      </div>
+      <div id="askHint" class="hint" style="margin-top:8px"></div>
+      <div id="askAnswer" class="answer"></div>
+      <div id="askRows" class="answer-rows"></div>
+      <details id="askCypherWrap" hidden><summary>Generated Cypher</summary><pre id="askCypher" class="cy"></pre></details>
+    </div>
+  </section>
+</div>
+
+<!-- ── sandbox console ───────────────────────────────────────────── -->
+<footer class="console" id="console">
+  <div class="row">
+    <span class="dot" id="conDot"></span>
+    <span class="msg" id="conMsg">idle — pick a kanji</span>
+    <span class="meta" id="conMeta"></span>
+    <button id="conToggle" class="btn ghost" hidden>cypher</button>
+  </div>
+  <div class="body" id="conBody" hidden><pre class="cy" id="conCypher"></pre></div>
+</footer>
+
+<script src="app.js"></script>
 </body>
 </html>
