@@ -1,0 +1,6 @@
+data/raw/
+.sandbox_id
+__pycache__/
+*.pyc
+.venv/
+.env

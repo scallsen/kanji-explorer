@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Kanji Radical Graph Explorer</title>
+<style>
+  body { font-family: -apple-system, sans-serif; max-width: 640px; margin: 60px auto; padding: 0 20px; color: #222; }
+  h1 { font-size: 20px; }
+  input { width: 100%; font-size: 16px; padding: 10px; box-sizing: border-box; }
+  button { margin-top: 10px; padding: 10px 16px; font-size: 15px; cursor: pointer; }
+  #answer { margin-top: 24px; font-size: 17px; line-height: 1.5; white-space: pre-wrap; }
+  #cypher { margin-top: 16px; background: #f4f4f4; padding: 10px; font-family: monospace; font-size: 13px; white-space: pre-wrap; display: none; }
+  #status { margin-top: 12px; color: #888; font-size: 14px; }
+  details summary { cursor: pointer; color: #666; font-size: 13px; margin-top: 16px; }
+</style>
+</head>
+<body>
+  <h1>Kanji Radical Graph Explorer</h1>
+  <input id="q" placeholder="e.g. what other kanji share a radical with 待" autofocus>
+  <button id="ask">Ask</button>
+  <div id="status"></div>
+  <div id="answer"></div>
+  <details id="cypherWrap" style="display:none">
+    <summary>Generated Cypher</summary>
+    <div id="cypher"></div>
+  </details>
+
+<script>
+const q = document.getElementById('q');
+const btn = document.getElementById('ask');
+const status = document.getElementById('status');
+const answer = document.getElementById('answer');
+const cypherWrap = document.getElementById('cypherWrap');
+const cypher = document.getElementById('cypher');
+
+async function ask() {
+  const question = q.value.trim();
+  if (!question) return;
+  btn.disabled = true;
+  status.textContent = 'Thinking...';
+  answer.textContent = '';
+  cypherWrap.style.display = 'none';
+  try {
+    const res = await fetch('/ask', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({question}),
+    });
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.error || 'request failed');
+    status.textContent = `${data.rows.length} result(s)`;
+    answer.textContent = data.answer;
+    cypher.textContent = data.cypher;
+    cypherWrap.style.display = 'block';
+  } catch (e) {
+    status.textContent = '';
+    answer.textContent = 'Error: ' + e.message;
+  } finally {
+    btn.disabled = false;
+  }
+}
+
+btn.addEventListener('click', ask);
+q.addEventListener('keydown', (e) => { if (e.key === 'Enter') ask(); });
+</script>
+</body>
+</html>

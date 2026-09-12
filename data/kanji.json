@@ -1,0 +1,10510 @@
+[
+  {
+    "char": "愛",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "アイ",
+      "いと.しい",
+      "かな.しい",
+      "め.でる",
+      "お.しむ",
+      "まな"
+    ],
+    "meanings": [
+      "love",
+      "affection",
+      "favourite"
+    ]
+  },
+  {
+    "char": "悪",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "アク",
+      "オ",
+      "わる.い",
+      "わる-",
+      "あ.し",
+      "にく.い",
+      "-にく.い",
+      "ああ",
+      "いずくに",
+      "いずくんぞ",
+      "にく.む"
+    ],
+    "meanings": [
+      "bad",
+      "vice",
+      "rascal",
+      "false",
+      "evil",
+      "wrong"
+    ]
+  },
+  {
+    "char": "安",
+    "grade": 3,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "アン",
+      "やす.い",
+      "やす.まる",
+      "やす",
+      "やす.らか"
+    ],
+    "meanings": [
+      "relax",
+      "cheap",
+      "low",
+      "quiet",
+      "rested",
+      "contented",
+      "peaceful"
+    ]
+  },
+  {
+    "char": "暗",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "アン",
+      "くら.い",
+      "くら.む",
+      "くれ.る"
+    ],
+    "meanings": [
+      "darkness",
+      "disappear",
+      "shade",
+      "informal",
+      "grow dark",
+      "be blinded"
+    ]
+  },
+  {
+    "char": "案",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "アン",
+      "つくえ"
+    ],
+    "meanings": [
+      "plan",
+      "suggestion",
+      "draft",
+      "ponder",
+      "fear",
+      "proposition",
+      "idea",
+      "expectation",
+      "worry",
+      "table",
+      "bench"
+    ]
+  },
+  {
+    "char": "以",
+    "grade": 4,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "イ",
+      "もっ.て"
+    ],
+    "meanings": [
+      "by means of",
+      "because",
+      "in view of",
+      "compared with"
+    ]
+  },
+  {
+    "char": "位",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "イ",
+      "くらい",
+      "ぐらい"
+    ],
+    "meanings": [
+      "rank",
+      "grade",
+      "throne",
+      "crown",
+      "about",
+      "some"
+    ]
+  },
+  {
+    "char": "委",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "イ",
+      "ゆだ.ねる"
+    ],
+    "meanings": [
+      "committee",
+      "entrust to",
+      "leave to",
+      "devote",
+      "discard"
+    ]
+  },
+  {
+    "char": "意",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "イ"
+    ],
+    "meanings": [
+      "idea",
+      "mind",
+      "heart",
+      "taste",
+      "thought",
+      "desire",
+      "care",
+      "liking"
+    ]
+  },
+  {
+    "char": "衣",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "イ",
+      "エ",
+      "ころも",
+      "きぬ",
+      "-ぎ"
+    ],
+    "meanings": [
+      "garment",
+      "clothes",
+      "dressing"
+    ]
+  },
+  {
+    "char": "医",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "イ",
+      "い.やす",
+      "い.する",
+      "くすし"
+    ],
+    "meanings": [
+      "doctor",
+      "medicine"
+    ]
+  },
+  {
+    "char": "井",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "セイ",
+      "ショウ",
+      "い"
+    ],
+    "meanings": [
+      "well",
+      "well crib",
+      "town",
+      "community"
+    ]
+  },
+  {
+    "char": "育",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "イク",
+      "そだ.つ",
+      "そだ.ち",
+      "そだ.てる",
+      "はぐく.む"
+    ],
+    "meanings": [
+      "bring up",
+      "grow up",
+      "raise",
+      "rear"
+    ]
+  },
+  {
+    "char": "一",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "イチ",
+      "イツ",
+      "ひと-",
+      "ひと.つ"
+    ],
+    "meanings": [
+      "one",
+      "one radical (no.1)"
+    ]
+  },
+  {
+    "char": "茨",
+    "grade": 4,
+    "jlpt_old_scale": null,
+    "readings": [
+      "シ",
+      "ジ",
+      "いばら",
+      "かや",
+      "くさぶき"
+    ],
+    "meanings": [
+      "briar",
+      "thorn"
+    ]
+  },
+  {
+    "char": "印",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "イン",
+      "しるし",
+      "-じるし",
+      "しる.す"
+    ],
+    "meanings": [
+      "stamp",
+      "seal",
+      "mark",
+      "imprint",
+      "symbol",
+      "emblem",
+      "trademark",
+      "evidence",
+      "souvenir",
+      "India"
+    ]
+  },
+  {
+    "char": "員",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "イン"
+    ],
+    "meanings": [
+      "employee",
+      "member",
+      "number",
+      "the one in charge"
+    ]
+  },
+  {
+    "char": "引",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "イン",
+      "ひ.く",
+      "ひ.ける"
+    ],
+    "meanings": [
+      "pull",
+      "tug",
+      "jerk",
+      "admit",
+      "install",
+      "quote",
+      "refer to"
+    ]
+  },
+  {
+    "char": "飲",
+    "grade": 3,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "イン",
+      "オン",
+      "の.む",
+      "-の.み"
+    ],
+    "meanings": [
+      "drink",
+      "smoke",
+      "take"
+    ]
+  },
+  {
+    "char": "院",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "イン"
+    ],
+    "meanings": [
+      "Inst.",
+      "institution",
+      "temple",
+      "mansion",
+      "school"
+    ]
+  },
+  {
+    "char": "右",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ウ",
+      "ユウ",
+      "みぎ"
+    ],
+    "meanings": [
+      "right"
+    ]
+  },
+  {
+    "char": "羽",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ウ",
+      "は",
+      "わ",
+      "はね"
+    ],
+    "meanings": [
+      "feathers",
+      "counter for birds, rabbits"
+    ]
+  },
+  {
+    "char": "雨",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ウ",
+      "あめ",
+      "あま-",
+      "-さめ"
+    ],
+    "meanings": [
+      "rain"
+    ]
+  },
+  {
+    "char": "運",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ウン",
+      "はこ.ぶ"
+    ],
+    "meanings": [
+      "carry",
+      "luck",
+      "destiny",
+      "fate",
+      "lot",
+      "transport",
+      "progress",
+      "advance"
+    ]
+  },
+  {
+    "char": "雲",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ウン",
+      "くも",
+      "-ぐも"
+    ],
+    "meanings": [
+      "cloud"
+    ]
+  },
+  {
+    "char": "栄",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "エイ",
+      "ヨウ",
+      "さか.える",
+      "は.え",
+      "-ば.え",
+      "は.える",
+      "え"
+    ],
+    "meanings": [
+      "flourish",
+      "prosperity",
+      "honor",
+      "glory",
+      "splendor"
+    ]
+  },
+  {
+    "char": "泳",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "エイ",
+      "およ.ぐ"
+    ],
+    "meanings": [
+      "swim"
+    ]
+  },
+  {
+    "char": "英",
+    "grade": 4,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "エイ",
+      "はなぶさ"
+    ],
+    "meanings": [
+      "England",
+      "English",
+      "hero",
+      "outstanding",
+      "calyx"
+    ]
+  },
+  {
+    "char": "駅",
+    "grade": 3,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "エキ"
+    ],
+    "meanings": [
+      "station"
+    ]
+  },
+  {
+    "char": "円",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "エン",
+      "まる.い",
+      "まる",
+      "まど",
+      "まど.か",
+      "まろ.やか"
+    ],
+    "meanings": [
+      "circle",
+      "yen",
+      "round"
+    ]
+  },
+  {
+    "char": "園",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "エン",
+      "その"
+    ],
+    "meanings": [
+      "park",
+      "garden",
+      "yard",
+      "farm"
+    ]
+  },
+  {
+    "char": "遠",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "エン",
+      "オン",
+      "とお.い"
+    ],
+    "meanings": [
+      "distant",
+      "far"
+    ]
+  },
+  {
+    "char": "塩",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "エン",
+      "しお"
+    ],
+    "meanings": [
+      "salt"
+    ]
+  },
+  {
+    "char": "央",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "オウ"
+    ],
+    "meanings": [
+      "center",
+      "middle"
+    ]
+  },
+  {
+    "char": "横",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "オウ",
+      "よこ"
+    ],
+    "meanings": [
+      "sideways",
+      "side",
+      "horizontal",
+      "width",
+      "woof",
+      "unreasonable",
+      "perverse"
+    ]
+  },
+  {
+    "char": "王",
+    "grade": 1,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "オウ",
+      "-ノウ"
+    ],
+    "meanings": [
+      "king",
+      "rule",
+      "magnate"
+    ]
+  },
+  {
+    "char": "黄",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "コウ",
+      "オウ",
+      "き",
+      "こ-"
+    ],
+    "meanings": [
+      "yellow"
+    ]
+  },
+  {
+    "char": "岡",
+    "grade": 4,
+    "jlpt_old_scale": null,
+    "readings": [
+      "コウ",
+      "おか"
+    ],
+    "meanings": [
+      "mount",
+      "hill",
+      "knoll"
+    ]
+  },
+  {
+    "char": "沖",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "チュウ",
+      "おき",
+      "おきつ",
+      "ちゅう.する",
+      "わく"
+    ],
+    "meanings": [
+      "open sea",
+      "offing",
+      "rise high into sky"
+    ]
+  },
+  {
+    "char": "億",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "オク"
+    ],
+    "meanings": [
+      "hundred million",
+      "10**8"
+    ]
+  },
+  {
+    "char": "屋",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "オク",
+      "や"
+    ],
+    "meanings": [
+      "roof",
+      "house",
+      "shop",
+      "dealer",
+      "seller"
+    ]
+  },
+  {
+    "char": "温",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "オン",
+      "あたた.か",
+      "あたた.かい",
+      "あたた.まる",
+      "あたた.める",
+      "ぬく"
+    ],
+    "meanings": [
+      "warm"
+    ]
+  },
+  {
+    "char": "音",
+    "grade": 1,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "オン",
+      "イン",
+      "-ノン",
+      "おと",
+      "ね"
+    ],
+    "meanings": [
+      "sound",
+      "noise"
+    ]
+  },
+  {
+    "char": "下",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "カ",
+      "ゲ",
+      "した",
+      "しも",
+      "もと",
+      "さ.げる",
+      "さ.がる",
+      "くだ.る",
+      "くだ.り",
+      "くだ.す",
+      "-くだ.す",
+      "くだ.さる",
+      "お.ろす",
+      "お.りる"
+    ],
+    "meanings": [
+      "below",
+      "down",
+      "descend",
+      "give",
+      "low",
+      "inferior"
+    ]
+  },
+  {
+    "char": "化",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "カ",
+      "ケ",
+      "ば.ける",
+      "ば.かす",
+      "ふ.ける",
+      "け.する"
+    ],
+    "meanings": [
+      "change",
+      "take the form of",
+      "influence",
+      "enchant",
+      "delude",
+      "-ization"
+    ]
+  },
+  {
+    "char": "何",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "カ",
+      "なに",
+      "なん",
+      "なに-",
+      "なん-"
+    ],
+    "meanings": [
+      "what"
+    ]
+  },
+  {
+    "char": "加",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "カ",
+      "くわ.える",
+      "くわ.わる"
+    ],
+    "meanings": [
+      "add",
+      "addition",
+      "increase",
+      "join",
+      "include",
+      "Canada"
+    ]
+  },
+  {
+    "char": "夏",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "カ",
+      "ガ",
+      "ゲ",
+      "なつ"
+    ],
+    "meanings": [
+      "summer"
+    ]
+  },
+  {
+    "char": "家",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "カ",
+      "ケ",
+      "いえ",
+      "や",
+      "うち"
+    ],
+    "meanings": [
+      "house",
+      "home",
+      "family",
+      "professional",
+      "expert",
+      "performer"
+    ]
+  },
+  {
+    "char": "科",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "カ"
+    ],
+    "meanings": [
+      "department",
+      "course",
+      "section"
+    ]
+  },
+  {
+    "char": "果",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "カ",
+      "は.たす",
+      "はた.す",
+      "-は.たす",
+      "は.てる",
+      "-は.てる",
+      "は.て"
+    ],
+    "meanings": [
+      "fruit",
+      "reward",
+      "carry out",
+      "achieve",
+      "complete",
+      "end",
+      "finish",
+      "succeed"
+    ]
+  },
+  {
+    "char": "歌",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "カ",
+      "うた",
+      "うた.う"
+    ],
+    "meanings": [
+      "song",
+      "sing"
+    ]
+  },
+  {
+    "char": "火",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "カ",
+      "ひ",
+      "-び",
+      "ほ-"
+    ],
+    "meanings": [
+      "fire"
+    ]
+  },
+  {
+    "char": "花",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "カ",
+      "ケ",
+      "はな"
+    ],
+    "meanings": [
+      "flower"
+    ]
+  },
+  {
+    "char": "荷",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "カ",
+      "に"
+    ],
+    "meanings": [
+      "baggage",
+      "shoulder-pole load",
+      "bear (a burden)",
+      "shoulder (a gun)",
+      "load",
+      "cargo",
+      "freight"
+    ]
+  },
+  {
+    "char": "課",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "カ"
+    ],
+    "meanings": [
+      "chapter",
+      "lesson",
+      "section",
+      "department",
+      "division",
+      "counter for chapters (of a book)"
+    ]
+  },
+  {
+    "char": "貨",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "カ",
+      "たから"
+    ],
+    "meanings": [
+      "freight",
+      "goods",
+      "property"
+    ]
+  },
+  {
+    "char": "画",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ガ",
+      "カク",
+      "エ",
+      "カイ",
+      "えが.く",
+      "かく.する",
+      "かぎ.る",
+      "はかりごと",
+      "はか.る"
+    ],
+    "meanings": [
+      "brush-stroke",
+      "picture"
+    ]
+  },
+  {
+    "char": "芽",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "ガ",
+      "め"
+    ],
+    "meanings": [
+      "bud",
+      "sprout",
+      "spear",
+      "germ"
+    ]
+  },
+  {
+    "char": "賀",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "ガ"
+    ],
+    "meanings": [
+      "congratulations",
+      "joy"
+    ]
+  },
+  {
+    "char": "会",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "カイ",
+      "エ",
+      "あ.う",
+      "あ.わせる",
+      "あつ.まる"
+    ],
+    "meanings": [
+      "meeting",
+      "meet",
+      "party",
+      "association",
+      "interview",
+      "join"
+    ]
+  },
+  {
+    "char": "回",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "カイ",
+      "エ",
+      "まわ.る",
+      "-まわ.る",
+      "-まわ.り",
+      "まわ.す",
+      "-まわ.す",
+      "まわ.し-",
+      "-まわ.し",
+      "もとお.る",
+      "か.える"
+    ],
+    "meanings": [
+      "-times",
+      "round",
+      "game",
+      "revolve",
+      "counter for occurrences"
+    ]
+  },
+  {
+    "char": "改",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "カイ",
+      "あらた.める",
+      "あらた.まる"
+    ],
+    "meanings": [
+      "reformation",
+      "change",
+      "modify",
+      "mend",
+      "renew",
+      "examine",
+      "inspect",
+      "search"
+    ]
+  },
+  {
+    "char": "械",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "カイ",
+      "かせ"
+    ],
+    "meanings": [
+      "contraption",
+      "fetter",
+      "machine",
+      "instrument"
+    ]
+  },
+  {
+    "char": "海",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "カイ",
+      "うみ"
+    ],
+    "meanings": [
+      "sea",
+      "ocean"
+    ]
+  },
+  {
+    "char": "界",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "カイ"
+    ],
+    "meanings": [
+      "world",
+      "boundary"
+    ]
+  },
+  {
+    "char": "絵",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "カイ",
+      "エ"
+    ],
+    "meanings": [
+      "picture",
+      "drawing",
+      "painting",
+      "sketch"
+    ]
+  },
+  {
+    "char": "開",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "カイ",
+      "ひら.く",
+      "ひら.き",
+      "-びら.き",
+      "ひら.ける",
+      "あ.く",
+      "あ.ける"
+    ],
+    "meanings": [
+      "open",
+      "unfold",
+      "unseal"
+    ]
+  },
+  {
+    "char": "階",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "カイ",
+      "きざはし"
+    ],
+    "meanings": [
+      "storey",
+      "stair",
+      "counter for storeys of a building"
+    ]
+  },
+  {
+    "char": "貝",
+    "grade": 1,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "バイ",
+      "かい"
+    ],
+    "meanings": [
+      "shellfish"
+    ]
+  },
+  {
+    "char": "外",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ガイ",
+      "ゲ",
+      "そと",
+      "ほか",
+      "はず.す",
+      "はず.れる",
+      "と-"
+    ],
+    "meanings": [
+      "outside"
+    ]
+  },
+  {
+    "char": "害",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ガイ"
+    ],
+    "meanings": [
+      "harm",
+      "injury"
+    ]
+  },
+  {
+    "char": "街",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "ガイ",
+      "カイ",
+      "まち"
+    ],
+    "meanings": [
+      "boulevard",
+      "street",
+      "town"
+    ]
+  },
+  {
+    "char": "各",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "カク",
+      "おのおの"
+    ],
+    "meanings": [
+      "each",
+      "every",
+      "either"
+    ]
+  },
+  {
+    "char": "覚",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "カク",
+      "おぼ.える",
+      "さ.ます",
+      "さ.める",
+      "さと.る"
+    ],
+    "meanings": [
+      "memorize",
+      "learn",
+      "remember",
+      "awake",
+      "sober up"
+    ]
+  },
+  {
+    "char": "角",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "カク",
+      "かど",
+      "つの"
+    ],
+    "meanings": [
+      "angle",
+      "corner",
+      "square",
+      "horn",
+      "antlers"
+    ]
+  },
+  {
+    "char": "学",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ガク",
+      "まな.ぶ"
+    ],
+    "meanings": [
+      "study",
+      "learning",
+      "science"
+    ]
+  },
+  {
+    "char": "楽",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ガク",
+      "ラク",
+      "ゴウ",
+      "たの.しい",
+      "たの.しむ",
+      "この.む"
+    ],
+    "meanings": [
+      "music",
+      "comfort",
+      "ease"
+    ]
+  },
+  {
+    "char": "潟",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "セキ",
+      "かた",
+      "-がた"
+    ],
+    "meanings": [
+      "lagoon"
+    ]
+  },
+  {
+    "char": "活",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "カツ",
+      "い.きる",
+      "い.かす",
+      "い.ける"
+    ],
+    "meanings": [
+      "lively",
+      "resuscitation",
+      "being helped",
+      "living"
+    ]
+  },
+  {
+    "char": "寒",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "カン",
+      "さむ.い"
+    ],
+    "meanings": [
+      "cold"
+    ]
+  },
+  {
+    "char": "完",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "カン"
+    ],
+    "meanings": [
+      "perfect",
+      "completion",
+      "end"
+    ]
+  },
+  {
+    "char": "官",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "カン"
+    ],
+    "meanings": [
+      "bureaucrat",
+      "the government",
+      "organ"
+    ]
+  },
+  {
+    "char": "感",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "カン"
+    ],
+    "meanings": [
+      "emotion",
+      "feeling",
+      "sensation"
+    ]
+  },
+  {
+    "char": "漢",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "カン"
+    ],
+    "meanings": [
+      "Sino-",
+      "China"
+    ]
+  },
+  {
+    "char": "管",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "カン",
+      "くだ"
+    ],
+    "meanings": [
+      "pipe",
+      "tube",
+      "wind instrument",
+      "drunken talk",
+      "control",
+      "jurisdiction"
+    ]
+  },
+  {
+    "char": "観",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "カン",
+      "み.る",
+      "しめ.す"
+    ],
+    "meanings": [
+      "outlook",
+      "look",
+      "appearance",
+      "condition",
+      "view"
+    ]
+  },
+  {
+    "char": "間",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "カン",
+      "ケン",
+      "あいだ",
+      "ま",
+      "あい"
+    ],
+    "meanings": [
+      "interval",
+      "space"
+    ]
+  },
+  {
+    "char": "関",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "カン",
+      "せき",
+      "-ぜき",
+      "かか.わる",
+      "からくり",
+      "かんぬき"
+    ],
+    "meanings": [
+      "connection",
+      "barrier",
+      "gateway",
+      "involve",
+      "concerning"
+    ]
+  },
+  {
+    "char": "館",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "カン",
+      "やかた",
+      "たて"
+    ],
+    "meanings": [
+      "building",
+      "mansion",
+      "large building",
+      "palace"
+    ]
+  },
+  {
+    "char": "丸",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ガン",
+      "まる",
+      "まる.める",
+      "まる.い"
+    ],
+    "meanings": [
+      "round",
+      "full (month)",
+      "perfection",
+      "-ship",
+      "pills",
+      "make round",
+      "roll up",
+      "curl up",
+      "seduce",
+      "explain away"
+    ]
+  },
+  {
+    "char": "岸",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ガン",
+      "きし"
+    ],
+    "meanings": [
+      "beach"
+    ]
+  },
+  {
+    "char": "岩",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ガン",
+      "いわ"
+    ],
+    "meanings": [
+      "boulder",
+      "rock",
+      "cliff"
+    ]
+  },
+  {
+    "char": "顔",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ガン",
+      "かお"
+    ],
+    "meanings": [
+      "face",
+      "expression"
+    ]
+  },
+  {
+    "char": "願",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ガン",
+      "ねが.う",
+      "-ねがい"
+    ],
+    "meanings": [
+      "petition",
+      "request",
+      "vow",
+      "wish",
+      "hope"
+    ]
+  },
+  {
+    "char": "器",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "キ",
+      "うつわ"
+    ],
+    "meanings": [
+      "utensil",
+      "vessel",
+      "receptacle",
+      "implement",
+      "instrument",
+      "ability",
+      "container",
+      "tool",
+      "set"
+    ]
+  },
+  {
+    "char": "岐",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "キ",
+      "ギ"
+    ],
+    "meanings": [
+      "branch off",
+      "fork in road",
+      "scene",
+      "arena",
+      "theater"
+    ]
+  },
+  {
+    "char": "希",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "キ",
+      "ケ",
+      "まれ",
+      "こいねが.う"
+    ],
+    "meanings": [
+      "hope",
+      "beg",
+      "request",
+      "pray",
+      "beseech",
+      "Greece",
+      "dilute (acid)",
+      "rare",
+      "few",
+      "phenomenal"
+    ]
+  },
+  {
+    "char": "旗",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "キ",
+      "はた"
+    ],
+    "meanings": [
+      "flag",
+      "banner",
+      "standard"
+    ]
+  },
+  {
+    "char": "期",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "キ",
+      "ゴ"
+    ],
+    "meanings": [
+      "period",
+      "time",
+      "date",
+      "term"
+    ]
+  },
+  {
+    "char": "機",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "キ",
+      "はた"
+    ],
+    "meanings": [
+      "loom",
+      "mechanism",
+      "machine",
+      "airplane",
+      "opportunity",
+      "potency",
+      "efficacy",
+      "occasion"
+    ]
+  },
+  {
+    "char": "帰",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "キ",
+      "かえ.る",
+      "かえ.す",
+      "おく.る",
+      "とつ.ぐ"
+    ],
+    "meanings": [
+      "homecoming",
+      "arrive at",
+      "lead to",
+      "result in"
+    ]
+  },
+  {
+    "char": "気",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "キ",
+      "ケ",
+      "いき",
+      "き"
+    ],
+    "meanings": [
+      "spirit",
+      "mind",
+      "air",
+      "atmosphere",
+      "mood"
+    ]
+  },
+  {
+    "char": "汽",
+    "grade": 2,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "キ"
+    ],
+    "meanings": [
+      "vapor",
+      "steam"
+    ]
+  },
+  {
+    "char": "季",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "キ"
+    ],
+    "meanings": [
+      "seasons"
+    ]
+  },
+  {
+    "char": "記",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "キ",
+      "しる.す"
+    ],
+    "meanings": [
+      "scribe",
+      "account",
+      "narrative"
+    ]
+  },
+  {
+    "char": "起",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "キ",
+      "お.きる",
+      "お.こる",
+      "お.こす",
+      "おこ.す",
+      "た.つ"
+    ],
+    "meanings": [
+      "rouse",
+      "wake up",
+      "get up"
+    ]
+  },
+  {
+    "char": "議",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ギ"
+    ],
+    "meanings": [
+      "deliberation",
+      "consultation",
+      "debate",
+      "consideration"
+    ]
+  },
+  {
+    "char": "客",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "キャク",
+      "カク"
+    ],
+    "meanings": [
+      "guest",
+      "visitor",
+      "customer",
+      "client"
+    ]
+  },
+  {
+    "char": "休",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "キュウ",
+      "やす.む",
+      "やす.まる",
+      "やす.める"
+    ],
+    "meanings": [
+      "rest",
+      "day off",
+      "retire",
+      "sleep"
+    ]
+  },
+  {
+    "char": "宮",
+    "grade": 3,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "キュウ",
+      "グウ",
+      "ク",
+      "クウ",
+      "みや"
+    ],
+    "meanings": [
+      "Shinto shrine",
+      "constellations",
+      "palace",
+      "princess"
+    ]
+  },
+  {
+    "char": "弓",
+    "grade": 2,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "キュウ",
+      "ゆみ"
+    ],
+    "meanings": [
+      "bow",
+      "bow (archery, violin)"
+    ]
+  },
+  {
+    "char": "急",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "キュウ",
+      "いそ.ぐ",
+      "いそ.ぎ",
+      "せ.く"
+    ],
+    "meanings": [
+      "hurry",
+      "emergency",
+      "sudden",
+      "steep"
+    ]
+  },
+  {
+    "char": "求",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "キュウ",
+      "グ",
+      "もと.める"
+    ],
+    "meanings": [
+      "request",
+      "want",
+      "wish for",
+      "require",
+      "demand"
+    ]
+  },
+  {
+    "char": "泣",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "キュウ",
+      "な.く"
+    ],
+    "meanings": [
+      "cry",
+      "weep",
+      "moan"
+    ]
+  },
+  {
+    "char": "球",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "キュウ",
+      "たま"
+    ],
+    "meanings": [
+      "ball",
+      "sphere"
+    ]
+  },
+  {
+    "char": "究",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "キュウ",
+      "ク",
+      "きわ.める"
+    ],
+    "meanings": [
+      "research",
+      "study"
+    ]
+  },
+  {
+    "char": "級",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "キュウ"
+    ],
+    "meanings": [
+      "class",
+      "rank",
+      "grade"
+    ]
+  },
+  {
+    "char": "給",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "キュウ",
+      "たま.う",
+      "たも.う",
+      "-たま.え"
+    ],
+    "meanings": [
+      "salary",
+      "wage",
+      "gift",
+      "allow",
+      "grant",
+      "bestow on"
+    ]
+  },
+  {
+    "char": "牛",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ギュウ",
+      "うし"
+    ],
+    "meanings": [
+      "cow"
+    ]
+  },
+  {
+    "char": "去",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "キョ",
+      "コ",
+      "さ.る",
+      "-さ.る"
+    ],
+    "meanings": [
+      "gone",
+      "past",
+      "quit",
+      "leave",
+      "elapse",
+      "eliminate",
+      "divorce"
+    ]
+  },
+  {
+    "char": "挙",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "キョ",
+      "あ.げる",
+      "あ.がる",
+      "こぞ.る"
+    ],
+    "meanings": [
+      "raise",
+      "plan",
+      "project",
+      "behavior",
+      "actions"
+    ]
+  },
+  {
+    "char": "漁",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ギョ",
+      "リョウ",
+      "あさ.る"
+    ],
+    "meanings": [
+      "fishing",
+      "fishery"
+    ]
+  },
+  {
+    "char": "魚",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ギョ",
+      "うお",
+      "さかな",
+      "-ざかな"
+    ],
+    "meanings": [
+      "fish"
+    ]
+  },
+  {
+    "char": "京",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "キョウ",
+      "ケイ",
+      "キン",
+      "みやこ"
+    ],
+    "meanings": [
+      "capital",
+      "10**16"
+    ]
+  },
+  {
+    "char": "競",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "キョウ",
+      "ケイ",
+      "きそ.う",
+      "せ.る",
+      "くら.べる"
+    ],
+    "meanings": [
+      "emulate",
+      "compete with",
+      "bid",
+      "sell at auction",
+      "bout",
+      "contest",
+      "race"
+    ]
+  },
+  {
+    "char": "共",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "キョウ",
+      "とも",
+      "とも.に",
+      "-ども"
+    ],
+    "meanings": [
+      "together",
+      "both",
+      "neither",
+      "all",
+      "and",
+      "alike",
+      "with"
+    ]
+  },
+  {
+    "char": "協",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "キョウ"
+    ],
+    "meanings": [
+      "co-",
+      "cooperation"
+    ]
+  },
+  {
+    "char": "強",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "キョウ",
+      "ゴウ",
+      "つよ.い",
+      "つよ.まる",
+      "つよ.める",
+      "し.いる",
+      "こわ.い"
+    ],
+    "meanings": [
+      "strong"
+    ]
+  },
+  {
+    "char": "教",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "キョウ",
+      "おし.える",
+      "おそ.わる"
+    ],
+    "meanings": [
+      "teach",
+      "faith",
+      "doctrine"
+    ]
+  },
+  {
+    "char": "橋",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "キョウ",
+      "はし"
+    ],
+    "meanings": [
+      "bridge"
+    ]
+  },
+  {
+    "char": "鏡",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "キョウ",
+      "ケイ",
+      "かがみ"
+    ],
+    "meanings": [
+      "mirror",
+      "speculum",
+      "barrel-head",
+      "round rice-cake offering"
+    ]
+  },
+  {
+    "char": "業",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ギョウ",
+      "ゴウ",
+      "わざ"
+    ],
+    "meanings": [
+      "business",
+      "vocation",
+      "arts",
+      "performance"
+    ]
+  },
+  {
+    "char": "局",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "キョク",
+      "つぼね"
+    ],
+    "meanings": [
+      "bureau",
+      "board",
+      "office",
+      "affair",
+      "conclusion",
+      "court lady",
+      "lady-in-waiting",
+      "her apartment"
+    ]
+  },
+  {
+    "char": "曲",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "キョク",
+      "ま.がる",
+      "ま.げる",
+      "くま"
+    ],
+    "meanings": [
+      "bend",
+      "music",
+      "melody",
+      "composition",
+      "pleasure",
+      "injustice",
+      "fault",
+      "curve",
+      "crooked",
+      "perverse",
+      "lean"
+    ]
+  },
+  {
+    "char": "極",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "キョク",
+      "ゴク",
+      "きわ.める",
+      "きわ.まる",
+      "きわ.まり",
+      "きわ.み",
+      "き.める",
+      "-ぎ.め",
+      "き.まる"
+    ],
+    "meanings": [
+      "extreme",
+      "pole",
+      "extremely",
+      "very",
+      "highly",
+      "most",
+      "end",
+      "settlement",
+      "conclusion",
+      "highest rank"
+    ]
+  },
+  {
+    "char": "玉",
+    "grade": 1,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ギョク",
+      "たま",
+      "たま-",
+      "-だま"
+    ],
+    "meanings": [
+      "jewel",
+      "ball"
+    ]
+  },
+  {
+    "char": "近",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "キン",
+      "コン",
+      "ちか.い"
+    ],
+    "meanings": [
+      "near",
+      "early",
+      "akin",
+      "tantamount"
+    ]
+  },
+  {
+    "char": "金",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "キン",
+      "コン",
+      "ゴン",
+      "かね",
+      "かな-",
+      "-がね"
+    ],
+    "meanings": [
+      "gold"
+    ]
+  },
+  {
+    "char": "銀",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ギン",
+      "しろがね"
+    ],
+    "meanings": [
+      "silver"
+    ]
+  },
+  {
+    "char": "九",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "キュウ",
+      "ク",
+      "ここの",
+      "ここの.つ"
+    ],
+    "meanings": [
+      "nine"
+    ]
+  },
+  {
+    "char": "区",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ク",
+      "オウ",
+      "コウ"
+    ],
+    "meanings": [
+      "ward",
+      "district"
+    ]
+  },
+  {
+    "char": "苦",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ク",
+      "くる.しい",
+      "-ぐる.しい",
+      "くる.しむ",
+      "くる.しめる",
+      "にが.い",
+      "にが.る"
+    ],
+    "meanings": [
+      "suffering",
+      "trial",
+      "worry",
+      "hardship",
+      "feel bitter",
+      "scowl"
+    ]
+  },
+  {
+    "char": "具",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "グ",
+      "そな.える",
+      "つぶさ.に"
+    ],
+    "meanings": [
+      "tool",
+      "utensil",
+      "means",
+      "possess",
+      "ingredients",
+      "counter for armor, suits, sets of furniture"
+    ]
+  },
+  {
+    "char": "空",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "クウ",
+      "そら",
+      "あ.く",
+      "あ.き",
+      "あ.ける",
+      "から",
+      "す.く",
+      "す.かす",
+      "むな.しい"
+    ],
+    "meanings": [
+      "empty",
+      "sky",
+      "void",
+      "vacant",
+      "vacuum"
+    ]
+  },
+  {
+    "char": "熊",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "ユウ",
+      "くま"
+    ],
+    "meanings": [
+      "bear"
+    ]
+  },
+  {
+    "char": "君",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "クン",
+      "きみ",
+      "-ぎみ"
+    ],
+    "meanings": [
+      "mister",
+      "you",
+      "ruler",
+      "male name suffix"
+    ]
+  },
+  {
+    "char": "訓",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "クン",
+      "キン",
+      "おし.える",
+      "よ.む",
+      "くん.ずる"
+    ],
+    "meanings": [
+      "instruction",
+      "Japanese character reading",
+      "explanation",
+      "read"
+    ]
+  },
+  {
+    "char": "群",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "グン",
+      "む.れる",
+      "む.れ",
+      "むら",
+      "むら.がる"
+    ],
+    "meanings": [
+      "flock",
+      "group",
+      "crowd",
+      "herd",
+      "swarm",
+      "cluster"
+    ]
+  },
+  {
+    "char": "軍",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "グン",
+      "いくさ"
+    ],
+    "meanings": [
+      "army",
+      "force",
+      "troops",
+      "war",
+      "battle"
+    ]
+  },
+  {
+    "char": "郡",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "グン",
+      "こおり"
+    ],
+    "meanings": [
+      "county",
+      "district"
+    ]
+  },
+  {
+    "char": "係",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ケイ",
+      "かか.る",
+      "かかり",
+      "-がかり",
+      "かか.わる"
+    ],
+    "meanings": [
+      "person in charge",
+      "connection",
+      "duty",
+      "concern oneself"
+    ]
+  },
+  {
+    "char": "兄",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ケイ",
+      "キョウ",
+      "あに"
+    ],
+    "meanings": [
+      "elder brother",
+      "big brother"
+    ]
+  },
+  {
+    "char": "形",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ケイ",
+      "ギョウ",
+      "かた",
+      "-がた",
+      "かたち",
+      "なり"
+    ],
+    "meanings": [
+      "shape",
+      "form",
+      "style"
+    ]
+  },
+  {
+    "char": "径",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "ケイ",
+      "みち",
+      "こみち",
+      "さしわたし",
+      "ただちに"
+    ],
+    "meanings": [
+      "diameter",
+      "path",
+      "method"
+    ]
+  },
+  {
+    "char": "景",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ケイ"
+    ],
+    "meanings": [
+      "scenery",
+      "view"
+    ]
+  },
+  {
+    "char": "計",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ケイ",
+      "はか.る",
+      "はか.らう"
+    ],
+    "meanings": [
+      "plot",
+      "plan",
+      "scheme",
+      "measure"
+    ]
+  },
+  {
+    "char": "軽",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ケイ",
+      "キョウ",
+      "キン",
+      "かる.い",
+      "かろ.やか",
+      "かろ.んじる"
+    ],
+    "meanings": [
+      "lightly",
+      "trifling",
+      "unimportant"
+    ]
+  },
+  {
+    "char": "芸",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ゲイ",
+      "ウン",
+      "う.える",
+      "のり",
+      "わざ"
+    ],
+    "meanings": [
+      "technique",
+      "art",
+      "craft",
+      "performance",
+      "acting",
+      "trick",
+      "stunt"
+    ]
+  },
+  {
+    "char": "欠",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ケツ",
+      "ケン",
+      "か.ける",
+      "か.く"
+    ],
+    "meanings": [
+      "lack",
+      "gap",
+      "fail",
+      "yawning radical (no. 76)"
+    ]
+  },
+  {
+    "char": "決",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ケツ",
+      "き.める",
+      "-ぎ.め",
+      "き.まる",
+      "さ.く"
+    ],
+    "meanings": [
+      "decide",
+      "fix",
+      "agree upon",
+      "appoint"
+    ]
+  },
+  {
+    "char": "結",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ケツ",
+      "ケチ",
+      "むす.ぶ",
+      "ゆ.う",
+      "ゆ.わえる"
+    ],
+    "meanings": [
+      "tie",
+      "bind",
+      "contract",
+      "join",
+      "organize",
+      "do up hair",
+      "fasten"
+    ]
+  },
+  {
+    "char": "血",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ケツ",
+      "ち"
+    ],
+    "meanings": [
+      "blood"
+    ]
+  },
+  {
+    "char": "月",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ゲツ",
+      "ガツ",
+      "つき"
+    ],
+    "meanings": [
+      "month",
+      "moon"
+    ]
+  },
+  {
+    "char": "健",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ケン",
+      "すこ.やか"
+    ],
+    "meanings": [
+      "healthy",
+      "health",
+      "strength",
+      "persistence"
+    ]
+  },
+  {
+    "char": "建",
+    "grade": 4,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ケン",
+      "コン",
+      "た.てる",
+      "た.て",
+      "-だ.て",
+      "た.つ"
+    ],
+    "meanings": [
+      "build"
+    ]
+  },
+  {
+    "char": "犬",
+    "grade": 1,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ケン",
+      "いぬ",
+      "いぬ-"
+    ],
+    "meanings": [
+      "dog"
+    ]
+  },
+  {
+    "char": "研",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ケン",
+      "と.ぐ"
+    ],
+    "meanings": [
+      "polish",
+      "study of",
+      "sharpen"
+    ]
+  },
+  {
+    "char": "県",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ケン",
+      "か.ける"
+    ],
+    "meanings": [
+      "prefecture"
+    ]
+  },
+  {
+    "char": "見",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ケン",
+      "み.る",
+      "み.える",
+      "み.せる"
+    ],
+    "meanings": [
+      "see",
+      "hopes",
+      "chances",
+      "idea",
+      "opinion",
+      "look at",
+      "visible"
+    ]
+  },
+  {
+    "char": "験",
+    "grade": 4,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ケン",
+      "ゲン",
+      "あかし",
+      "しるし",
+      "ため.す",
+      "ためし"
+    ],
+    "meanings": [
+      "verification",
+      "effect",
+      "testing"
+    ]
+  },
+  {
+    "char": "元",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ゲン",
+      "ガン",
+      "もと"
+    ],
+    "meanings": [
+      "beginning",
+      "former time",
+      "origin"
+    ]
+  },
+  {
+    "char": "原",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ゲン",
+      "はら"
+    ],
+    "meanings": [
+      "meadow",
+      "original",
+      "primitive",
+      "field",
+      "plain",
+      "prairie",
+      "tundra",
+      "wilderness"
+    ]
+  },
+  {
+    "char": "言",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ゲン",
+      "ゴン",
+      "い.う",
+      "こと"
+    ],
+    "meanings": [
+      "say",
+      "word"
+    ]
+  },
+  {
+    "char": "古",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "コ",
+      "ふる.い",
+      "ふる-",
+      "-ふる.す"
+    ],
+    "meanings": [
+      "old"
+    ]
+  },
+  {
+    "char": "固",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "コ",
+      "かた.める",
+      "かた.まる",
+      "かた.まり",
+      "かた.い"
+    ],
+    "meanings": [
+      "harden",
+      "set",
+      "clot",
+      "curdle"
+    ]
+  },
+  {
+    "char": "庫",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "コ",
+      "ク",
+      "くら"
+    ],
+    "meanings": [
+      "warehouse",
+      "storehouse"
+    ]
+  },
+  {
+    "char": "戸",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "コ",
+      "と"
+    ],
+    "meanings": [
+      "door",
+      "counter for houses",
+      "door radical (no. 63)"
+    ]
+  },
+  {
+    "char": "湖",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "コ",
+      "みずうみ"
+    ],
+    "meanings": [
+      "lake"
+    ]
+  },
+  {
+    "char": "五",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ゴ",
+      "いつ",
+      "いつ.つ"
+    ],
+    "meanings": [
+      "five"
+    ]
+  },
+  {
+    "char": "午",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ゴ",
+      "うま"
+    ],
+    "meanings": [
+      "noon",
+      "sign of the horse",
+      "11AM-1PM",
+      "seventh sign of Chinese zodiac"
+    ]
+  },
+  {
+    "char": "後",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ゴ",
+      "コウ",
+      "のち",
+      "うし.ろ",
+      "うしろ",
+      "あと",
+      "おく.れる"
+    ],
+    "meanings": [
+      "behind",
+      "back",
+      "later"
+    ]
+  },
+  {
+    "char": "語",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ゴ",
+      "かた.る",
+      "かた.らう"
+    ],
+    "meanings": [
+      "word",
+      "speech",
+      "language"
+    ]
+  },
+  {
+    "char": "交",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "コウ",
+      "まじ.わる",
+      "まじ.える",
+      "ま.じる",
+      "まじ.る",
+      "ま.ざる",
+      "ま.ぜる",
+      "-か.う",
+      "か.わす",
+      "かわ.す",
+      "こもごも"
+    ],
+    "meanings": [
+      "mingle",
+      "mixing",
+      "association",
+      "coming & going"
+    ]
+  },
+  {
+    "char": "候",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "コウ",
+      "そうろう"
+    ],
+    "meanings": [
+      "climate",
+      "season",
+      "weather",
+      "wait for",
+      "expect"
+    ]
+  },
+  {
+    "char": "光",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "コウ",
+      "ひか.る",
+      "ひかり"
+    ],
+    "meanings": [
+      "ray",
+      "light"
+    ]
+  },
+  {
+    "char": "公",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "コウ",
+      "ク",
+      "おおやけ"
+    ],
+    "meanings": [
+      "public",
+      "prince",
+      "official",
+      "governmental"
+    ]
+  },
+  {
+    "char": "功",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "コウ",
+      "ク",
+      "いさお"
+    ],
+    "meanings": [
+      "achievement",
+      "merits",
+      "success",
+      "honor",
+      "credit"
+    ]
+  },
+  {
+    "char": "口",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "コウ",
+      "ク",
+      "くち"
+    ],
+    "meanings": [
+      "mouth"
+    ]
+  },
+  {
+    "char": "向",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "コウ",
+      "む.く",
+      "む.い",
+      "-む.き",
+      "む.ける",
+      "-む.け",
+      "む.かう",
+      "む.かい",
+      "む.こう",
+      "む.こう-",
+      "むこ",
+      "むか.い"
+    ],
+    "meanings": [
+      "yonder",
+      "facing",
+      "beyond",
+      "confront",
+      "defy",
+      "tend toward",
+      "approach"
+    ]
+  },
+  {
+    "char": "好",
+    "grade": 4,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "コウ",
+      "この.む",
+      "す.く",
+      "よ.い",
+      "い.い"
+    ],
+    "meanings": [
+      "fond",
+      "pleasing",
+      "like something"
+    ]
+  },
+  {
+    "char": "工",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "コウ",
+      "ク",
+      "グ"
+    ],
+    "meanings": [
+      "craft",
+      "construction",
+      "katakana e radical (no. 48)"
+    ]
+  },
+  {
+    "char": "幸",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "コウ",
+      "さいわ.い",
+      "さち",
+      "しあわ.せ"
+    ],
+    "meanings": [
+      "happiness",
+      "blessing",
+      "fortune"
+    ]
+  },
+  {
+    "char": "広",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "コウ",
+      "ひろ.い",
+      "ひろ.まる",
+      "ひろ.める",
+      "ひろ.がる",
+      "ひろ.げる"
+    ],
+    "meanings": [
+      "wide",
+      "broad",
+      "spacious"
+    ]
+  },
+  {
+    "char": "康",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "コウ"
+    ],
+    "meanings": [
+      "ease",
+      "peace"
+    ]
+  },
+  {
+    "char": "校",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "コウ",
+      "キョウ"
+    ],
+    "meanings": [
+      "exam",
+      "school",
+      "printing",
+      "proof",
+      "correction"
+    ]
+  },
+  {
+    "char": "港",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "コウ",
+      "みなと"
+    ],
+    "meanings": [
+      "harbor"
+    ]
+  },
+  {
+    "char": "考",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "コウ",
+      "かんが.える",
+      "かんが.え"
+    ],
+    "meanings": [
+      "consider",
+      "think over"
+    ]
+  },
+  {
+    "char": "行",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "コウ",
+      "ギョウ",
+      "アン",
+      "い.く",
+      "ゆ.く",
+      "-ゆ.き",
+      "-ゆき",
+      "-い.き",
+      "-いき",
+      "おこな.う",
+      "おこ.なう"
+    ],
+    "meanings": [
+      "going",
+      "journey",
+      "carry out",
+      "conduct",
+      "act",
+      "line",
+      "row",
+      "bank"
+    ]
+  },
+  {
+    "char": "香",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "コウ",
+      "キョウ",
+      "か",
+      "かお.り",
+      "かお.る"
+    ],
+    "meanings": [
+      "incense",
+      "smell",
+      "perfume"
+    ]
+  },
+  {
+    "char": "高",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "コウ",
+      "たか.い",
+      "たか",
+      "-だか",
+      "たか.まる",
+      "たか.める"
+    ],
+    "meanings": [
+      "tall",
+      "high",
+      "expensive"
+    ]
+  },
+  {
+    "char": "号",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ゴウ",
+      "さけ.ぶ",
+      "よびな"
+    ],
+    "meanings": [
+      "nickname",
+      "number",
+      "item",
+      "title",
+      "pseudonym",
+      "name",
+      "call"
+    ]
+  },
+  {
+    "char": "合",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ゴウ",
+      "ガッ",
+      "カッ",
+      "あ.う",
+      "-あ.う",
+      "あ.い",
+      "あい-",
+      "-あ.い",
+      "-あい",
+      "あ.わす",
+      "あ.わせる",
+      "-あ.わせる"
+    ],
+    "meanings": [
+      "fit",
+      "suit",
+      "join",
+      "0.1"
+    ]
+  },
+  {
+    "char": "国",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "コク",
+      "くに"
+    ],
+    "meanings": [
+      "country"
+    ]
+  },
+  {
+    "char": "黒",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "コク",
+      "くろ",
+      "くろ.ずむ",
+      "くろ.い"
+    ],
+    "meanings": [
+      "black"
+    ]
+  },
+  {
+    "char": "今",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "コン",
+      "キン",
+      "いま"
+    ],
+    "meanings": [
+      "now"
+    ]
+  },
+  {
+    "char": "根",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "コン",
+      "ね",
+      "-ね"
+    ],
+    "meanings": [
+      "root",
+      "radical",
+      "head (pimple)"
+    ]
+  },
+  {
+    "char": "佐",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "サ"
+    ],
+    "meanings": [
+      "assistant",
+      "help"
+    ]
+  },
+  {
+    "char": "左",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "サ",
+      "シャ",
+      "ひだり"
+    ],
+    "meanings": [
+      "left"
+    ]
+  },
+  {
+    "char": "差",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "サ",
+      "さ.す",
+      "さ.し"
+    ],
+    "meanings": [
+      "distinction",
+      "difference",
+      "variation",
+      "discrepancy",
+      "margin",
+      "balance"
+    ]
+  },
+  {
+    "char": "最",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "サイ",
+      "シュ",
+      "もっと.も",
+      "つま"
+    ],
+    "meanings": [
+      "utmost",
+      "most",
+      "extreme"
+    ]
+  },
+  {
+    "char": "才",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "サイ"
+    ],
+    "meanings": [
+      "genius",
+      "years old",
+      "cubic shaku"
+    ]
+  },
+  {
+    "char": "祭",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "サイ",
+      "まつ.る",
+      "まつ.り",
+      "まつり"
+    ],
+    "meanings": [
+      "ritual",
+      "offer prayers",
+      "celebrate",
+      "deify",
+      "enshrine",
+      "worship"
+    ]
+  },
+  {
+    "char": "細",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "サイ",
+      "ほそ.い",
+      "ほそ.る",
+      "こま.か",
+      "こま.かい"
+    ],
+    "meanings": [
+      "dainty",
+      "get thin",
+      "taper",
+      "slender",
+      "narrow",
+      "detailed",
+      "precise"
+    ]
+  },
+  {
+    "char": "菜",
+    "grade": 4,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "サイ",
+      "な"
+    ],
+    "meanings": [
+      "vegetable",
+      "side dish",
+      "greens"
+    ]
+  },
+  {
+    "char": "材",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ザイ"
+    ],
+    "meanings": [
+      "lumber",
+      "log",
+      "timber",
+      "wood",
+      "materials",
+      "ingredients",
+      "talent"
+    ]
+  },
+  {
+    "char": "坂",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ハン",
+      "さか"
+    ],
+    "meanings": [
+      "slope",
+      "incline",
+      "hill"
+    ]
+  },
+  {
+    "char": "阪",
+    "grade": 4,
+    "jlpt_old_scale": null,
+    "readings": [
+      "ハン",
+      "さか"
+    ],
+    "meanings": [
+      "heights",
+      "slope"
+    ]
+  },
+  {
+    "char": "崎",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "キ",
+      "さき",
+      "さい",
+      "みさき"
+    ],
+    "meanings": [
+      "promontory",
+      "cape",
+      "spit"
+    ]
+  },
+  {
+    "char": "埼",
+    "grade": 4,
+    "jlpt_old_scale": null,
+    "readings": [
+      "キ",
+      "さき",
+      "さい",
+      "みさき"
+    ],
+    "meanings": [
+      "cape",
+      "spit",
+      "promontory"
+    ]
+  },
+  {
+    "char": "作",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "サク",
+      "サ",
+      "つく.る",
+      "つく.り",
+      "-づく.り"
+    ],
+    "meanings": [
+      "make",
+      "production",
+      "prepare",
+      "build"
+    ]
+  },
+  {
+    "char": "昨",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "サク"
+    ],
+    "meanings": [
+      "yesterday",
+      "previous"
+    ]
+  },
+  {
+    "char": "刷",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "サツ",
+      "す.る",
+      "-ず.り",
+      "-ずり",
+      "は.く"
+    ],
+    "meanings": [
+      "printing",
+      "print",
+      "brush"
+    ]
+  },
+  {
+    "char": "察",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "サツ"
+    ],
+    "meanings": [
+      "guess",
+      "presume",
+      "surmise",
+      "judge",
+      "understand"
+    ]
+  },
+  {
+    "char": "札",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "サツ",
+      "ふだ"
+    ],
+    "meanings": [
+      "tag",
+      "paper money",
+      "counter for bonds",
+      "placard",
+      "bid"
+    ]
+  },
+  {
+    "char": "皿",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ベイ",
+      "さら"
+    ],
+    "meanings": [
+      "dish",
+      "a helping",
+      "plate"
+    ]
+  },
+  {
+    "char": "三",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "サン",
+      "ゾウ",
+      "み",
+      "み.つ",
+      "みっ.つ"
+    ],
+    "meanings": [
+      "three"
+    ]
+  },
+  {
+    "char": "参",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "サン",
+      "シン",
+      "まい.る",
+      "まい-",
+      "まじわる",
+      "みつ"
+    ],
+    "meanings": [
+      "nonplussed",
+      "three (in documents)",
+      "going",
+      "coming",
+      "visiting",
+      "visit",
+      "be defeated",
+      "die",
+      "be madly in love",
+      "participate",
+      "take part in"
+    ]
+  },
+  {
+    "char": "山",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "サン",
+      "セン",
+      "やま"
+    ],
+    "meanings": [
+      "mountain"
+    ]
+  },
+  {
+    "char": "散",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "サン",
+      "ち.る",
+      "ち.らす",
+      "-ち.らす",
+      "ち.らかす",
+      "ち.らかる",
+      "ち.らばる",
+      "ばら",
+      "ばら.ける"
+    ],
+    "meanings": [
+      "scatter",
+      "disperse",
+      "spend",
+      "squander"
+    ]
+  },
+  {
+    "char": "産",
+    "grade": 4,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "サン",
+      "う.む",
+      "う.まれる",
+      "うぶ-",
+      "む.す"
+    ],
+    "meanings": [
+      "products",
+      "bear",
+      "give birth",
+      "yield",
+      "childbirth",
+      "native",
+      "property"
+    ]
+  },
+  {
+    "char": "算",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "サン",
+      "そろ"
+    ],
+    "meanings": [
+      "calculate",
+      "divining",
+      "number",
+      "abacus",
+      "probability"
+    ]
+  },
+  {
+    "char": "残",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ザン",
+      "サン",
+      "のこ.る",
+      "のこ.す",
+      "そこな.う",
+      "のこ.り"
+    ],
+    "meanings": [
+      "remainder",
+      "leftover",
+      "balance"
+    ]
+  },
+  {
+    "char": "仕",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "シ",
+      "ジ",
+      "つか.える"
+    ],
+    "meanings": [
+      "attend",
+      "doing",
+      "official",
+      "serve"
+    ]
+  },
+  {
+    "char": "使",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "シ",
+      "つか.う",
+      "つか.い",
+      "-つか.い",
+      "-づか.い"
+    ],
+    "meanings": [
+      "use",
+      "send on a mission",
+      "order",
+      "messenger",
+      "envoy",
+      "ambassador",
+      "cause"
+    ]
+  },
+  {
+    "char": "司",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "シ",
+      "つかさど.る"
+    ],
+    "meanings": [
+      "director",
+      "official",
+      "govt office",
+      "rule",
+      "administer"
+    ]
+  },
+  {
+    "char": "四",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "シ",
+      "よ",
+      "よ.つ",
+      "よっ.つ",
+      "よん"
+    ],
+    "meanings": [
+      "four"
+    ]
+  },
+  {
+    "char": "始",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "シ",
+      "はじ.める",
+      "-はじ.める",
+      "はじ.まる"
+    ],
+    "meanings": [
+      "commence",
+      "begin"
+    ]
+  },
+  {
+    "char": "姉",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "シ",
+      "あね",
+      "はは"
+    ],
+    "meanings": [
+      "elder sister"
+    ]
+  },
+  {
+    "char": "子",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "シ",
+      "ス",
+      "ツ",
+      "こ",
+      "-こ",
+      "ね"
+    ],
+    "meanings": [
+      "child",
+      "sign of the rat",
+      "11PM-1AM",
+      "first sign of Chinese zodiac"
+    ]
+  },
+  {
+    "char": "市",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "シ",
+      "いち"
+    ],
+    "meanings": [
+      "market",
+      "city",
+      "town"
+    ]
+  },
+  {
+    "char": "思",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "シ",
+      "おも.う",
+      "おもえら.く",
+      "おぼ.す"
+    ],
+    "meanings": [
+      "think"
+    ]
+  },
+  {
+    "char": "指",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "シ",
+      "ゆび",
+      "さ.す",
+      "-さ.し"
+    ],
+    "meanings": [
+      "finger",
+      "point to",
+      "indicate",
+      "put into",
+      "play (chess)",
+      "measure (ruler)"
+    ]
+  },
+  {
+    "char": "止",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "シ",
+      "と.まる",
+      "-ど.まり",
+      "と.める",
+      "-と.める",
+      "-ど.め",
+      "とど.める",
+      "とど.め",
+      "とど.まる",
+      "や.める",
+      "や.む",
+      "-や.む",
+      "よ.す",
+      "-さ.す",
+      "-さ.し"
+    ],
+    "meanings": [
+      "stop",
+      "halt"
+    ]
+  },
+  {
+    "char": "死",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "シ",
+      "し.ぬ",
+      "し.に-"
+    ],
+    "meanings": [
+      "death",
+      "die"
+    ]
+  },
+  {
+    "char": "氏",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "シ",
+      "うじ",
+      "-うじ"
+    ],
+    "meanings": [
+      "family name",
+      "surname",
+      "clan"
+    ]
+  },
+  {
+    "char": "糸",
+    "grade": 1,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "シ",
+      "いと"
+    ],
+    "meanings": [
+      "thread"
+    ]
+  },
+  {
+    "char": "紙",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "シ",
+      "かみ"
+    ],
+    "meanings": [
+      "paper"
+    ]
+  },
+  {
+    "char": "詩",
+    "grade": 3,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "シ",
+      "うた"
+    ],
+    "meanings": [
+      "poem",
+      "poetry"
+    ]
+  },
+  {
+    "char": "試",
+    "grade": 4,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "シ",
+      "こころ.みる",
+      "ため.す"
+    ],
+    "meanings": [
+      "test",
+      "try",
+      "attempt",
+      "experiment",
+      "ordeal"
+    ]
+  },
+  {
+    "char": "歯",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "シ",
+      "よわい",
+      "は",
+      "よわ.い",
+      "よわい.する"
+    ],
+    "meanings": [
+      "tooth",
+      "cog"
+    ]
+  },
+  {
+    "char": "事",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ジ",
+      "ズ",
+      "こと",
+      "つか.う",
+      "つか.える"
+    ],
+    "meanings": [
+      "matter",
+      "thing",
+      "fact",
+      "business",
+      "reason",
+      "possibly"
+    ]
+  },
+  {
+    "char": "児",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ジ",
+      "ニ",
+      "ゲイ",
+      "こ",
+      "-こ",
+      "-っこ"
+    ],
+    "meanings": [
+      "newborn babe",
+      "child",
+      "young of animals"
+    ]
+  },
+  {
+    "char": "字",
+    "grade": 1,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ジ",
+      "あざ",
+      "あざな",
+      "-な"
+    ],
+    "meanings": [
+      "character",
+      "letter",
+      "word",
+      "section of village"
+    ]
+  },
+  {
+    "char": "寺",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ジ",
+      "てら"
+    ],
+    "meanings": [
+      "Buddhist temple"
+    ]
+  },
+  {
+    "char": "持",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ジ",
+      "も.つ",
+      "-も.ち",
+      "も.てる"
+    ],
+    "meanings": [
+      "hold",
+      "have"
+    ]
+  },
+  {
+    "char": "時",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ジ",
+      "とき",
+      "-どき"
+    ],
+    "meanings": [
+      "time",
+      "hour"
+    ]
+  },
+  {
+    "char": "次",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ジ",
+      "シ",
+      "つ.ぐ",
+      "つぎ"
+    ],
+    "meanings": [
+      "next",
+      "order",
+      "sequence"
+    ]
+  },
+  {
+    "char": "滋",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "ジ",
+      "シ"
+    ],
+    "meanings": [
+      "nourishing",
+      "more & more",
+      "be luxuriant",
+      "planting",
+      "turbidity"
+    ]
+  },
+  {
+    "char": "治",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ジ",
+      "チ",
+      "おさ.める",
+      "おさ.まる",
+      "なお.る",
+      "なお.す"
+    ],
+    "meanings": [
+      "reign",
+      "be at peace",
+      "calm down",
+      "subdue",
+      "quell",
+      "govt",
+      "cure",
+      "heal",
+      "rule",
+      "conserve"
+    ]
+  },
+  {
+    "char": "耳",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ジ",
+      "みみ"
+    ],
+    "meanings": [
+      "ear"
+    ]
+  },
+  {
+    "char": "自",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ジ",
+      "シ",
+      "みずか.ら",
+      "おの.ずから",
+      "おの.ずと"
+    ],
+    "meanings": [
+      "oneself"
+    ]
+  },
+  {
+    "char": "辞",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ジ",
+      "や.める",
+      "いな.む"
+    ],
+    "meanings": [
+      "resign",
+      "word",
+      "term",
+      "expression"
+    ]
+  },
+  {
+    "char": "鹿",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "ロク",
+      "しか",
+      "か"
+    ],
+    "meanings": [
+      "deer"
+    ]
+  },
+  {
+    "char": "式",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "シキ"
+    ],
+    "meanings": [
+      "style",
+      "ceremony",
+      "rite",
+      "function",
+      "method",
+      "system",
+      "form",
+      "expression"
+    ]
+  },
+  {
+    "char": "七",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "シチ",
+      "なな",
+      "なな.つ",
+      "なの"
+    ],
+    "meanings": [
+      "seven"
+    ]
+  },
+  {
+    "char": "失",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "シツ",
+      "うしな.う",
+      "う.せる"
+    ],
+    "meanings": [
+      "lose",
+      "error",
+      "fault",
+      "disadvantage",
+      "loss"
+    ]
+  },
+  {
+    "char": "室",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "シツ",
+      "むろ"
+    ],
+    "meanings": [
+      "room",
+      "apartment",
+      "chamber",
+      "greenhouse",
+      "cellar"
+    ]
+  },
+  {
+    "char": "実",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ジツ",
+      "シツ",
+      "み",
+      "みの.る",
+      "まこと",
+      "みの",
+      "みち.る"
+    ],
+    "meanings": [
+      "reality",
+      "truth",
+      "seed",
+      "fruit",
+      "nut"
+    ]
+  },
+  {
+    "char": "写",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "シャ",
+      "ジャ",
+      "うつ.す",
+      "うつ.る",
+      "うつ-",
+      "うつ.し"
+    ],
+    "meanings": [
+      "copy",
+      "be photographed",
+      "describe"
+    ]
+  },
+  {
+    "char": "社",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "シャ",
+      "やしろ"
+    ],
+    "meanings": [
+      "company",
+      "firm",
+      "office",
+      "association",
+      "shrine"
+    ]
+  },
+  {
+    "char": "者",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "シャ",
+      "もの"
+    ],
+    "meanings": [
+      "someone",
+      "person"
+    ]
+  },
+  {
+    "char": "車",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "シャ",
+      "くるま"
+    ],
+    "meanings": [
+      "car"
+    ]
+  },
+  {
+    "char": "借",
+    "grade": 4,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "シャク",
+      "か.りる"
+    ],
+    "meanings": [
+      "borrow",
+      "rent"
+    ]
+  },
+  {
+    "char": "弱",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ジャク",
+      "よわ.い",
+      "よわ.る",
+      "よわ.まる",
+      "よわ.める"
+    ],
+    "meanings": [
+      "weak",
+      "frail"
+    ]
+  },
+  {
+    "char": "主",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "シュ",
+      "ス",
+      "シュウ",
+      "ぬし",
+      "おも",
+      "あるじ"
+    ],
+    "meanings": [
+      "lord",
+      "chief",
+      "master",
+      "main thing",
+      "principal"
+    ]
+  },
+  {
+    "char": "取",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "シュ",
+      "と.る",
+      "と.り",
+      "と.り-",
+      "とり",
+      "-ど.り"
+    ],
+    "meanings": [
+      "take",
+      "fetch",
+      "take up"
+    ]
+  },
+  {
+    "char": "守",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "シュ",
+      "ス",
+      "まも.る",
+      "まも.り",
+      "もり",
+      "-もり",
+      "かみ"
+    ],
+    "meanings": [
+      "guard",
+      "protect",
+      "defend",
+      "obey"
+    ]
+  },
+  {
+    "char": "手",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "シュ",
+      "ズ",
+      "て",
+      "て-",
+      "-て",
+      "た-"
+    ],
+    "meanings": [
+      "hand"
+    ]
+  },
+  {
+    "char": "種",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "シュ",
+      "たね",
+      "-ぐさ"
+    ],
+    "meanings": [
+      "species",
+      "kind",
+      "class",
+      "variety",
+      "seed"
+    ]
+  },
+  {
+    "char": "酒",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "シュ",
+      "さけ",
+      "さか-"
+    ],
+    "meanings": [
+      "sake",
+      "alcohol"
+    ]
+  },
+  {
+    "char": "首",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "シュ",
+      "くび"
+    ],
+    "meanings": [
+      "neck",
+      "counter for songs and poems"
+    ]
+  },
+  {
+    "char": "受",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ジュ",
+      "う.ける",
+      "-う.け",
+      "う.かる"
+    ],
+    "meanings": [
+      "accept",
+      "undergo",
+      "answer (phone)",
+      "take",
+      "get",
+      "catch",
+      "receive"
+    ]
+  },
+  {
+    "char": "周",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "シュウ",
+      "まわ.り"
+    ],
+    "meanings": [
+      "circumference",
+      "circuit",
+      "lap"
+    ]
+  },
+  {
+    "char": "州",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "シュウ",
+      "ス",
+      "す"
+    ],
+    "meanings": [
+      "state",
+      "province"
+    ]
+  },
+  {
+    "char": "拾",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "シュウ",
+      "ジュウ",
+      "ひろ.う"
+    ],
+    "meanings": [
+      "pick up",
+      "gather",
+      "find",
+      "go on foot",
+      "ten"
+    ]
+  },
+  {
+    "char": "秋",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "シュウ",
+      "あき",
+      "とき"
+    ],
+    "meanings": [
+      "autumn"
+    ]
+  },
+  {
+    "char": "終",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "シュウ",
+      "お.わる",
+      "-お.わる",
+      "おわ.る",
+      "お.える",
+      "つい",
+      "つい.に"
+    ],
+    "meanings": [
+      "end",
+      "finish"
+    ]
+  },
+  {
+    "char": "習",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "シュウ",
+      "ジュ",
+      "なら.う",
+      "なら.い"
+    ],
+    "meanings": [
+      "learn"
+    ]
+  },
+  {
+    "char": "週",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "シュウ"
+    ],
+    "meanings": [
+      "week"
+    ]
+  },
+  {
+    "char": "集",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "シュウ",
+      "あつ.まる",
+      "あつ.める",
+      "つど.う"
+    ],
+    "meanings": [
+      "gather",
+      "meet",
+      "congregate",
+      "swarm",
+      "flock"
+    ]
+  },
+  {
+    "char": "住",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ジュウ",
+      "ヂュウ",
+      "チュウ",
+      "す.む",
+      "す.まう",
+      "-ず.まい"
+    ],
+    "meanings": [
+      "dwell",
+      "reside",
+      "live",
+      "inhabit"
+    ]
+  },
+  {
+    "char": "十",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ジュウ",
+      "ジッ",
+      "ジュッ",
+      "とお",
+      "と",
+      "そ"
+    ],
+    "meanings": [
+      "ten"
+    ]
+  },
+  {
+    "char": "重",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ジュウ",
+      "チョウ",
+      "え",
+      "おも.い",
+      "おも.り",
+      "おも.なう",
+      "かさ.ねる",
+      "かさ.なる",
+      "おも"
+    ],
+    "meanings": [
+      "heavy",
+      "important",
+      "esteem",
+      "respect",
+      "heap up",
+      "pile up",
+      "nest of boxes",
+      "-fold"
+    ]
+  },
+  {
+    "char": "宿",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "シュク",
+      "やど",
+      "やど.る",
+      "やど.す"
+    ],
+    "meanings": [
+      "inn",
+      "lodging",
+      "relay station",
+      "dwell",
+      "lodge",
+      "be pregnant",
+      "home",
+      "dwelling"
+    ]
+  },
+  {
+    "char": "祝",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "シュク",
+      "シュウ",
+      "いわ.う"
+    ],
+    "meanings": [
+      "celebrate",
+      "congratulate"
+    ]
+  },
+  {
+    "char": "出",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "シュツ",
+      "スイ",
+      "で.る",
+      "-で",
+      "だ.す",
+      "-だ.す",
+      "い.でる",
+      "い.だす"
+    ],
+    "meanings": [
+      "exit",
+      "leave",
+      "go out",
+      "come out",
+      "put out",
+      "protrude"
+    ]
+  },
+  {
+    "char": "春",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "シュン",
+      "はる"
+    ],
+    "meanings": [
+      "springtime",
+      "spring (season)"
+    ]
+  },
+  {
+    "char": "順",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ジュン"
+    ],
+    "meanings": [
+      "obey",
+      "order",
+      "turn",
+      "right",
+      "docility",
+      "occasion"
+    ]
+  },
+  {
+    "char": "初",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ショ",
+      "はじ.め",
+      "はじ.めて",
+      "はつ",
+      "はつ-",
+      "うい-",
+      "-そ.める",
+      "-ぞ.め"
+    ],
+    "meanings": [
+      "first time",
+      "beginning"
+    ]
+  },
+  {
+    "char": "所",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ショ",
+      "ところ",
+      "-ところ",
+      "どころ",
+      "とこ"
+    ],
+    "meanings": [
+      "place",
+      "extent"
+    ]
+  },
+  {
+    "char": "暑",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ショ",
+      "あつ.い"
+    ],
+    "meanings": [
+      "sultry",
+      "hot",
+      "summer heat"
+    ]
+  },
+  {
+    "char": "書",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ショ",
+      "か.く",
+      "-が.き",
+      "-がき"
+    ],
+    "meanings": [
+      "write"
+    ]
+  },
+  {
+    "char": "助",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ジョ",
+      "たす.ける",
+      "たす.かる",
+      "す.ける",
+      "すけ"
+    ],
+    "meanings": [
+      "help",
+      "rescue",
+      "assist"
+    ]
+  },
+  {
+    "char": "女",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ジョ",
+      "ニョ",
+      "ニョウ",
+      "おんな",
+      "め"
+    ],
+    "meanings": [
+      "woman",
+      "female"
+    ]
+  },
+  {
+    "char": "勝",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ショウ",
+      "か.つ",
+      "-が.ち",
+      "まさ.る",
+      "すぐ.れる",
+      "かつ"
+    ],
+    "meanings": [
+      "victory",
+      "win",
+      "prevail",
+      "excel"
+    ]
+  },
+  {
+    "char": "商",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ショウ",
+      "あきな.う"
+    ],
+    "meanings": [
+      "make a deal",
+      "selling",
+      "dealing in",
+      "merchant"
+    ]
+  },
+  {
+    "char": "唱",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "ショウ",
+      "とな.える"
+    ],
+    "meanings": [
+      "chant",
+      "recite",
+      "call upon",
+      "yell"
+    ]
+  },
+  {
+    "char": "小",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ショウ",
+      "ちい.さい",
+      "こ-",
+      "お-",
+      "さ-"
+    ],
+    "meanings": [
+      "little",
+      "small"
+    ]
+  },
+  {
+    "char": "少",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ショウ",
+      "すく.ない",
+      "すこ.し"
+    ],
+    "meanings": [
+      "few",
+      "little"
+    ]
+  },
+  {
+    "char": "昭",
+    "grade": 3,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "ショウ"
+    ],
+    "meanings": [
+      "shining",
+      "bright"
+    ]
+  },
+  {
+    "char": "松",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "ショウ",
+      "まつ"
+    ],
+    "meanings": [
+      "pine tree"
+    ]
+  },
+  {
+    "char": "消",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ショウ",
+      "き.える",
+      "け.す"
+    ],
+    "meanings": [
+      "extinguish",
+      "blow out",
+      "turn off",
+      "neutralize",
+      "cancel"
+    ]
+  },
+  {
+    "char": "焼",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ショウ",
+      "や.く",
+      "や.き",
+      "や.き-",
+      "-や.き",
+      "や.ける"
+    ],
+    "meanings": [
+      "bake",
+      "burning"
+    ]
+  },
+  {
+    "char": "照",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ショウ",
+      "て.る",
+      "て.らす",
+      "て.れる"
+    ],
+    "meanings": [
+      "illuminate",
+      "shine",
+      "compare",
+      "bashful"
+    ]
+  },
+  {
+    "char": "省",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "セイ",
+      "ショウ",
+      "かえり.みる",
+      "はぶ.く"
+    ],
+    "meanings": [
+      "government ministry",
+      "conserve",
+      "omit"
+    ]
+  },
+  {
+    "char": "章",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ショウ"
+    ],
+    "meanings": [
+      "badge",
+      "chapter",
+      "composition",
+      "poem",
+      "design"
+    ]
+  },
+  {
+    "char": "笑",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ショウ",
+      "わら.う",
+      "え.む"
+    ],
+    "meanings": [
+      "laugh"
+    ]
+  },
+  {
+    "char": "上",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ジョウ",
+      "ショウ",
+      "シャン",
+      "うえ",
+      "-うえ",
+      "うわ-",
+      "かみ",
+      "あ.げる",
+      "-あ.げる",
+      "あ.がる",
+      "-あ.がる",
+      "あ.がり",
+      "-あ.がり",
+      "のぼ.る",
+      "のぼ.り",
+      "のぼ.せる",
+      "のぼ.す",
+      "たてまつ.る"
+    ],
+    "meanings": [
+      "above",
+      "up"
+    ]
+  },
+  {
+    "char": "乗",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ジョウ",
+      "ショウ",
+      "の.る",
+      "-の.り",
+      "の.せる"
+    ],
+    "meanings": [
+      "ride",
+      "power",
+      "multiplication",
+      "record",
+      "counter for vehicles",
+      "board",
+      "mount",
+      "join"
+    ]
+  },
+  {
+    "char": "城",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ジョウ",
+      "セイ",
+      "しろ"
+    ],
+    "meanings": [
+      "castle"
+    ]
+  },
+  {
+    "char": "場",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ジョウ",
+      "チョウ",
+      "ば"
+    ],
+    "meanings": [
+      "location",
+      "place"
+    ]
+  },
+  {
+    "char": "植",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ショク",
+      "う.える",
+      "う.わる"
+    ],
+    "meanings": [
+      "plant"
+    ]
+  },
+  {
+    "char": "色",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ショク",
+      "シキ",
+      "いろ"
+    ],
+    "meanings": [
+      "color"
+    ]
+  },
+  {
+    "char": "食",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ショク",
+      "ジキ",
+      "く.う",
+      "く.らう",
+      "た.べる",
+      "は.む"
+    ],
+    "meanings": [
+      "eat",
+      "food"
+    ]
+  },
+  {
+    "char": "信",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "シン"
+    ],
+    "meanings": [
+      "faith",
+      "truth",
+      "fidelity",
+      "trust"
+    ]
+  },
+  {
+    "char": "心",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "シン",
+      "こころ",
+      "-ごころ"
+    ],
+    "meanings": [
+      "heart",
+      "mind",
+      "spirit",
+      "heart radical (no. 61)"
+    ]
+  },
+  {
+    "char": "新",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "シン",
+      "あたら.しい",
+      "あら.た",
+      "あら-",
+      "にい-"
+    ],
+    "meanings": [
+      "new"
+    ]
+  },
+  {
+    "char": "森",
+    "grade": 1,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "シン",
+      "もり"
+    ],
+    "meanings": [
+      "forest",
+      "woods"
+    ]
+  },
+  {
+    "char": "深",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "シン",
+      "ふか.い",
+      "-ぶか.い",
+      "ふか.まる",
+      "ふか.める",
+      "み-"
+    ],
+    "meanings": [
+      "deep",
+      "heighten",
+      "intensify",
+      "strengthen"
+    ]
+  },
+  {
+    "char": "申",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "シン",
+      "もう.す",
+      "もう.し-",
+      "さる"
+    ],
+    "meanings": [
+      "have the honor to",
+      "sign of the monkey",
+      "3-5PM",
+      "ninth sign of Chinese zodiac"
+    ]
+  },
+  {
+    "char": "真",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "シン",
+      "ま",
+      "ま-",
+      "まこと"
+    ],
+    "meanings": [
+      "true",
+      "reality",
+      "Buddhist sect"
+    ]
+  },
+  {
+    "char": "神",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "シン",
+      "ジン",
+      "かみ",
+      "かん-",
+      "こう-"
+    ],
+    "meanings": [
+      "gods",
+      "mind",
+      "soul"
+    ]
+  },
+  {
+    "char": "臣",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "シン",
+      "ジン"
+    ],
+    "meanings": [
+      "retainer",
+      "subject"
+    ]
+  },
+  {
+    "char": "親",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "シン",
+      "おや",
+      "おや-",
+      "した.しい",
+      "した.しむ"
+    ],
+    "meanings": [
+      "parent",
+      "intimacy",
+      "relative",
+      "familiarity",
+      "dealer (cards)"
+    ]
+  },
+  {
+    "char": "身",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "シン",
+      "み"
+    ],
+    "meanings": [
+      "somebody",
+      "person",
+      "one's station in life"
+    ]
+  },
+  {
+    "char": "進",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "シン",
+      "すす.む",
+      "すす.める"
+    ],
+    "meanings": [
+      "advance",
+      "proceed",
+      "progress",
+      "promote"
+    ]
+  },
+  {
+    "char": "人",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ジン",
+      "ニン",
+      "ひと",
+      "-り",
+      "-と"
+    ],
+    "meanings": [
+      "person"
+    ]
+  },
+  {
+    "char": "図",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ズ",
+      "ト",
+      "え",
+      "はか.る"
+    ],
+    "meanings": [
+      "map",
+      "drawing",
+      "plan",
+      "extraordinary",
+      "audacious"
+    ]
+  },
+  {
+    "char": "水",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "スイ",
+      "みず",
+      "みず-"
+    ],
+    "meanings": [
+      "water"
+    ]
+  },
+  {
+    "char": "数",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "スウ",
+      "ス",
+      "サク",
+      "ソク",
+      "シュ",
+      "かず",
+      "かぞ.える",
+      "しばしば",
+      "せ.める",
+      "わずらわ.しい"
+    ],
+    "meanings": [
+      "number",
+      "strength",
+      "fate",
+      "law",
+      "figures"
+    ]
+  },
+  {
+    "char": "世",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "セイ",
+      "セ",
+      "ソウ",
+      "よ"
+    ],
+    "meanings": [
+      "generation",
+      "world",
+      "society",
+      "public"
+    ]
+  },
+  {
+    "char": "成",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "セイ",
+      "ジョウ",
+      "な.る",
+      "な.す",
+      "-な.す"
+    ],
+    "meanings": [
+      "turn into",
+      "become",
+      "get",
+      "grow",
+      "elapse",
+      "reach"
+    ]
+  },
+  {
+    "char": "整",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "セイ",
+      "ととの.える",
+      "ととの.う"
+    ],
+    "meanings": [
+      "organize",
+      "arranging",
+      "tune",
+      "tone",
+      "meter",
+      "key (music)"
+    ]
+  },
+  {
+    "char": "星",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "セイ",
+      "ショウ",
+      "ほし",
+      "-ぼし"
+    ],
+    "meanings": [
+      "star",
+      "spot",
+      "dot",
+      "mark"
+    ]
+  },
+  {
+    "char": "晴",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "セイ",
+      "は.れる",
+      "は.れ",
+      "は.れ-",
+      "-ば.れ",
+      "は.らす"
+    ],
+    "meanings": [
+      "clear up"
+    ]
+  },
+  {
+    "char": "正",
+    "grade": 1,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "セイ",
+      "ショウ",
+      "ただ.しい",
+      "ただ.す",
+      "まさ",
+      "まさ.に"
+    ],
+    "meanings": [
+      "correct",
+      "justice",
+      "righteous",
+      "10**40"
+    ]
+  },
+  {
+    "char": "清",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "セイ",
+      "ショウ",
+      "シン",
+      "きよ.い",
+      "きよ.まる",
+      "きよ.める"
+    ],
+    "meanings": [
+      "pure",
+      "purify",
+      "cleanse",
+      "exorcise",
+      "Manchu dynasty"
+    ]
+  },
+  {
+    "char": "生",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "セイ",
+      "ショウ",
+      "い.きる",
+      "い.かす",
+      "い.ける",
+      "う.まれる",
+      "うま.れる",
+      "う.まれ",
+      "うまれ",
+      "う.む",
+      "お.う",
+      "は.える",
+      "は.やす",
+      "き",
+      "なま",
+      "なま-",
+      "な.る",
+      "な.す",
+      "む.す",
+      "-う"
+    ],
+    "meanings": [
+      "life",
+      "genuine",
+      "birth"
+    ]
+  },
+  {
+    "char": "声",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "セイ",
+      "ショウ",
+      "こえ",
+      "こわ-"
+    ],
+    "meanings": [
+      "voice"
+    ]
+  },
+  {
+    "char": "西",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "セイ",
+      "サイ",
+      "ス",
+      "にし"
+    ],
+    "meanings": [
+      "west",
+      "Spain"
+    ]
+  },
+  {
+    "char": "青",
+    "grade": 1,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "セイ",
+      "ショウ",
+      "あお",
+      "あお-",
+      "あお.い"
+    ],
+    "meanings": [
+      "blue",
+      "green"
+    ]
+  },
+  {
+    "char": "静",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "セイ",
+      "ジョウ",
+      "しず-",
+      "しず.か",
+      "しず.まる",
+      "しず.める"
+    ],
+    "meanings": [
+      "quiet"
+    ]
+  },
+  {
+    "char": "席",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "セキ",
+      "むしろ"
+    ],
+    "meanings": [
+      "seat",
+      "mat",
+      "occasion",
+      "place"
+    ]
+  },
+  {
+    "char": "昔",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "セキ",
+      "シャク",
+      "むかし"
+    ],
+    "meanings": [
+      "once upon a time",
+      "antiquity",
+      "old times"
+    ]
+  },
+  {
+    "char": "石",
+    "grade": 1,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "セキ",
+      "シャク",
+      "コク",
+      "いし"
+    ],
+    "meanings": [
+      "stone"
+    ]
+  },
+  {
+    "char": "積",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "セキ",
+      "つ.む",
+      "-づ.み",
+      "つ.もる",
+      "つ.もり"
+    ],
+    "meanings": [
+      "volume",
+      "product (x*y)",
+      "acreage",
+      "contents",
+      "pile up",
+      "stack",
+      "load",
+      "amass"
+    ]
+  },
+  {
+    "char": "赤",
+    "grade": 1,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "セキ",
+      "シャク",
+      "あか",
+      "あか-",
+      "あか.い",
+      "あか.らむ",
+      "あか.らめる"
+    ],
+    "meanings": [
+      "red"
+    ]
+  },
+  {
+    "char": "切",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "セツ",
+      "サイ",
+      "き.る",
+      "-き.る",
+      "き.り",
+      "-き.り",
+      "-ぎ.り",
+      "き.れる",
+      "-き.れる",
+      "き.れ",
+      "-き.れ",
+      "-ぎ.れ"
+    ],
+    "meanings": [
+      "cut",
+      "cutoff",
+      "be sharp"
+    ]
+  },
+  {
+    "char": "折",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "セツ",
+      "シャク",
+      "お.る",
+      "おり",
+      "お.り",
+      "-お.り",
+      "お.れる"
+    ],
+    "meanings": [
+      "fold",
+      "break",
+      "fracture",
+      "bend",
+      "yield",
+      "submit"
+    ]
+  },
+  {
+    "char": "節",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "セツ",
+      "セチ",
+      "ふし",
+      "-ぶし",
+      "のっと"
+    ],
+    "meanings": [
+      "node",
+      "season",
+      "period",
+      "occasion",
+      "verse",
+      "clause",
+      "stanza",
+      "honor",
+      "joint",
+      "knuckle",
+      "knob",
+      "knot",
+      "tune",
+      "melody"
+    ]
+  },
+  {
+    "char": "説",
+    "grade": 4,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "セツ",
+      "ゼイ",
+      "と.く"
+    ],
+    "meanings": [
+      "opinion",
+      "theory",
+      "explanation",
+      "rumor"
+    ]
+  },
+  {
+    "char": "雪",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "セツ",
+      "ゆき"
+    ],
+    "meanings": [
+      "snow"
+    ]
+  },
+  {
+    "char": "先",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "セン",
+      "さき",
+      "ま.ず"
+    ],
+    "meanings": [
+      "before",
+      "ahead",
+      "previous",
+      "future",
+      "precedence"
+    ]
+  },
+  {
+    "char": "千",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "セン",
+      "ち"
+    ],
+    "meanings": [
+      "thousand"
+    ]
+  },
+  {
+    "char": "川",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "セン",
+      "かわ"
+    ],
+    "meanings": [
+      "stream",
+      "river",
+      "river or three-stroke river radical (no. 47)"
+    ]
+  },
+  {
+    "char": "戦",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "セン",
+      "いくさ",
+      "たたか.う",
+      "おのの.く",
+      "そよ.ぐ",
+      "わなな.く"
+    ],
+    "meanings": [
+      "war",
+      "battle",
+      "match"
+    ]
+  },
+  {
+    "char": "浅",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "セン",
+      "あさ.い"
+    ],
+    "meanings": [
+      "shallow",
+      "superficial",
+      "frivolous",
+      "wretched",
+      "shameful"
+    ]
+  },
+  {
+    "char": "線",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "セン",
+      "すじ"
+    ],
+    "meanings": [
+      "line",
+      "track"
+    ]
+  },
+  {
+    "char": "船",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "セン",
+      "ふね",
+      "ふな-"
+    ],
+    "meanings": [
+      "ship",
+      "boat"
+    ]
+  },
+  {
+    "char": "選",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "セン",
+      "えら.ぶ",
+      "え.る",
+      "よ.る"
+    ],
+    "meanings": [
+      "elect",
+      "select",
+      "choose",
+      "prefer"
+    ]
+  },
+  {
+    "char": "前",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ゼン",
+      "まえ",
+      "-まえ"
+    ],
+    "meanings": [
+      "in front",
+      "before"
+    ]
+  },
+  {
+    "char": "然",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ゼン",
+      "ネン",
+      "しか",
+      "しか.り",
+      "しか.し",
+      "さ"
+    ],
+    "meanings": [
+      "sort of thing",
+      "so",
+      "if so",
+      "in that case",
+      "well"
+    ]
+  },
+  {
+    "char": "全",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ゼン",
+      "まった.く",
+      "すべ.て"
+    ],
+    "meanings": [
+      "whole",
+      "entire",
+      "all",
+      "complete",
+      "fulfill"
+    ]
+  },
+  {
+    "char": "組",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ソ",
+      "く.む",
+      "くみ",
+      "-ぐみ"
+    ],
+    "meanings": [
+      "association",
+      "braid",
+      "plait",
+      "construct",
+      "assemble",
+      "unite",
+      "cooperate",
+      "grapple"
+    ]
+  },
+  {
+    "char": "倉",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "ソウ",
+      "くら"
+    ],
+    "meanings": [
+      "godown",
+      "warehouse",
+      "storehouse",
+      "cellar",
+      "treasury"
+    ]
+  },
+  {
+    "char": "想",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ソウ",
+      "ソ",
+      "おも.う"
+    ],
+    "meanings": [
+      "idea",
+      "thought",
+      "conception",
+      "think"
+    ]
+  },
+  {
+    "char": "早",
+    "grade": 1,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ソウ",
+      "サッ",
+      "はや.い",
+      "はや",
+      "はや-",
+      "はや.まる",
+      "はや.める",
+      "さ-"
+    ],
+    "meanings": [
+      "early",
+      "fast"
+    ]
+  },
+  {
+    "char": "巣",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "ソウ",
+      "す",
+      "す.くう"
+    ],
+    "meanings": [
+      "nest",
+      "rookery",
+      "hive",
+      "cobweb",
+      "den"
+    ]
+  },
+  {
+    "char": "争",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ソウ",
+      "あらそ.う",
+      "いか.でか"
+    ],
+    "meanings": [
+      "contend",
+      "dispute",
+      "argue"
+    ]
+  },
+  {
+    "char": "相",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ソウ",
+      "ショウ",
+      "あい-"
+    ],
+    "meanings": [
+      "inter-",
+      "mutual",
+      "together",
+      "each other",
+      "minister of state",
+      "councillor",
+      "aspect",
+      "phase",
+      "physiognomy"
+    ]
+  },
+  {
+    "char": "草",
+    "grade": 1,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ソウ",
+      "くさ",
+      "くさ-",
+      "-ぐさ"
+    ],
+    "meanings": [
+      "grass",
+      "weeds",
+      "herbs",
+      "pasture",
+      "write",
+      "draft"
+    ]
+  },
+  {
+    "char": "走",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ソウ",
+      "はし.る"
+    ],
+    "meanings": [
+      "run"
+    ]
+  },
+  {
+    "char": "送",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ソウ",
+      "おく.る"
+    ],
+    "meanings": [
+      "escort",
+      "send"
+    ]
+  },
+  {
+    "char": "側",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ソク",
+      "かわ",
+      "がわ",
+      "そば"
+    ],
+    "meanings": [
+      "side",
+      "lean",
+      "oppose",
+      "regret"
+    ]
+  },
+  {
+    "char": "息",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ソク",
+      "いき"
+    ],
+    "meanings": [
+      "breath",
+      "respiration",
+      "son",
+      "interest (on money)",
+      "rest",
+      "coming to an end"
+    ]
+  },
+  {
+    "char": "束",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ソク",
+      "たば",
+      "たば.ねる",
+      "つか",
+      "つか.ねる"
+    ],
+    "meanings": [
+      "bundle",
+      "sheaf",
+      "ream",
+      "tie in bundles",
+      "govern",
+      "manage",
+      "control"
+    ]
+  },
+  {
+    "char": "足",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ソク",
+      "あし",
+      "た.りる",
+      "た.る",
+      "た.す"
+    ],
+    "meanings": [
+      "leg",
+      "foot",
+      "be sufficient",
+      "counter for pairs of footwear"
+    ]
+  },
+  {
+    "char": "速",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ソク",
+      "はや.い",
+      "はや-",
+      "はや.める",
+      "すみ.やか"
+    ],
+    "meanings": [
+      "quick",
+      "fast"
+    ]
+  },
+  {
+    "char": "族",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ゾク"
+    ],
+    "meanings": [
+      "tribe",
+      "family"
+    ]
+  },
+  {
+    "char": "続",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ゾク",
+      "ショク",
+      "コウ",
+      "キョウ",
+      "つづ.く",
+      "つづ.ける",
+      "つぐ.ない"
+    ],
+    "meanings": [
+      "continue",
+      "series",
+      "sequel"
+    ]
+  },
+  {
+    "char": "卒",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ソツ",
+      "シュツ",
+      "そっ.する",
+      "お.える",
+      "お.わる",
+      "ついに",
+      "にわか"
+    ],
+    "meanings": [
+      "graduate",
+      "soldier",
+      "private",
+      "die"
+    ]
+  },
+  {
+    "char": "孫",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ソン",
+      "まご"
+    ],
+    "meanings": [
+      "grandchild",
+      "descendants"
+    ]
+  },
+  {
+    "char": "村",
+    "grade": 1,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ソン",
+      "むら"
+    ],
+    "meanings": [
+      "village",
+      "town"
+    ]
+  },
+  {
+    "char": "他",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "タ",
+      "ほか"
+    ],
+    "meanings": [
+      "other",
+      "another",
+      "the others"
+    ]
+  },
+  {
+    "char": "多",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "タ",
+      "おお.い",
+      "まさ.に",
+      "まさ.る"
+    ],
+    "meanings": [
+      "many",
+      "frequent",
+      "much"
+    ]
+  },
+  {
+    "char": "太",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "タイ",
+      "タ",
+      "ふと.い",
+      "ふと.る"
+    ],
+    "meanings": [
+      "plump",
+      "thick",
+      "big around"
+    ]
+  },
+  {
+    "char": "打",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ダ",
+      "ダース",
+      "う.つ",
+      "う.ち-",
+      "ぶ.つ"
+    ],
+    "meanings": [
+      "strike",
+      "hit",
+      "knock",
+      "pound",
+      "dozen"
+    ]
+  },
+  {
+    "char": "体",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "タイ",
+      "テイ",
+      "からだ",
+      "かたち"
+    ],
+    "meanings": [
+      "body",
+      "substance",
+      "object",
+      "reality",
+      "counter for images"
+    ]
+  },
+  {
+    "char": "対",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "タイ",
+      "ツイ",
+      "あいて",
+      "こた.える",
+      "そろ.い",
+      "つれあ.い",
+      "なら.ぶ",
+      "むか.う"
+    ],
+    "meanings": [
+      "vis-a-vis",
+      "opposite",
+      "even",
+      "equal",
+      "versus",
+      "anti-",
+      "compare"
+    ]
+  },
+  {
+    "char": "帯",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "タイ",
+      "お.びる",
+      "おび"
+    ],
+    "meanings": [
+      "sash",
+      "belt",
+      "obi",
+      "zone",
+      "region"
+    ]
+  },
+  {
+    "char": "待",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "タイ",
+      "ま.つ",
+      "-ま.ち"
+    ],
+    "meanings": [
+      "wait",
+      "depend on"
+    ]
+  },
+  {
+    "char": "隊",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "タイ"
+    ],
+    "meanings": [
+      "regiment",
+      "party",
+      "company",
+      "squad"
+    ]
+  },
+  {
+    "char": "代",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ダイ",
+      "タイ",
+      "か.わる",
+      "かわ.る",
+      "かわ.り",
+      "か.わり",
+      "-がわ.り",
+      "-が.わり",
+      "か.える",
+      "よ",
+      "しろ"
+    ],
+    "meanings": [
+      "substitute",
+      "change",
+      "convert",
+      "replace",
+      "period",
+      "age",
+      "counter for decades of ages, eras, etc.",
+      "generation",
+      "charge",
+      "rate",
+      "fee"
+    ]
+  },
+  {
+    "char": "台",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ダイ",
+      "タイ",
+      "うてな",
+      "われ",
+      "つかさ"
+    ],
+    "meanings": [
+      "pedestal",
+      "a stand",
+      "counter for machines and vehicles"
+    ]
+  },
+  {
+    "char": "大",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ダイ",
+      "タイ",
+      "おお-",
+      "おお.きい",
+      "-おお.いに"
+    ],
+    "meanings": [
+      "large",
+      "big"
+    ]
+  },
+  {
+    "char": "第",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ダイ",
+      "テイ"
+    ],
+    "meanings": [
+      "No.",
+      "residence"
+    ]
+  },
+  {
+    "char": "題",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ダイ"
+    ],
+    "meanings": [
+      "topic",
+      "subject"
+    ]
+  },
+  {
+    "char": "達",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "タツ",
+      "ダ",
+      "-たち"
+    ],
+    "meanings": [
+      "accomplished",
+      "reach",
+      "arrive",
+      "attain"
+    ]
+  },
+  {
+    "char": "谷",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "コク",
+      "たに",
+      "きわ.まる"
+    ],
+    "meanings": [
+      "valley"
+    ]
+  },
+  {
+    "char": "単",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "タン",
+      "ひとえ"
+    ],
+    "meanings": [
+      "simple",
+      "one",
+      "single",
+      "merely"
+    ]
+  },
+  {
+    "char": "炭",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "タン",
+      "すみ"
+    ],
+    "meanings": [
+      "charcoal",
+      "coal"
+    ]
+  },
+  {
+    "char": "短",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "タン",
+      "みじか.い"
+    ],
+    "meanings": [
+      "short",
+      "brevity",
+      "fault",
+      "defect",
+      "weak point"
+    ]
+  },
+  {
+    "char": "男",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ダン",
+      "ナン",
+      "おとこ",
+      "お"
+    ],
+    "meanings": [
+      "male"
+    ]
+  },
+  {
+    "char": "談",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ダン"
+    ],
+    "meanings": [
+      "discuss",
+      "talk"
+    ]
+  },
+  {
+    "char": "知",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "チ",
+      "し.る",
+      "し.らせる"
+    ],
+    "meanings": [
+      "know",
+      "wisdom"
+    ]
+  },
+  {
+    "char": "地",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "チ",
+      "ジ"
+    ],
+    "meanings": [
+      "ground",
+      "earth"
+    ]
+  },
+  {
+    "char": "池",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "チ",
+      "いけ"
+    ],
+    "meanings": [
+      "pond",
+      "cistern",
+      "pool",
+      "reservoir"
+    ]
+  },
+  {
+    "char": "置",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "チ",
+      "お.く",
+      "-お.き"
+    ],
+    "meanings": [
+      "placement",
+      "put",
+      "set",
+      "deposit",
+      "leave behind",
+      "keep",
+      "employ",
+      "pawn"
+    ]
+  },
+  {
+    "char": "竹",
+    "grade": 1,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "チク",
+      "たけ"
+    ],
+    "meanings": [
+      "bamboo"
+    ]
+  },
+  {
+    "char": "茶",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "チャ",
+      "サ"
+    ],
+    "meanings": [
+      "tea"
+    ]
+  },
+  {
+    "char": "着",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "チャク",
+      "ジャク",
+      "き.る",
+      "き.せる",
+      "つ.く",
+      "つ.ける"
+    ],
+    "meanings": [
+      "don",
+      "arrive",
+      "wear",
+      "counter for suits of clothing"
+    ]
+  },
+  {
+    "char": "中",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "チュウ",
+      "なか",
+      "うち",
+      "あた.る"
+    ],
+    "meanings": [
+      "in",
+      "inside",
+      "middle",
+      "mean",
+      "center"
+    ]
+  },
+  {
+    "char": "仲",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "チュウ",
+      "なか"
+    ],
+    "meanings": [
+      "go-between",
+      "relationship"
+    ]
+  },
+  {
+    "char": "昼",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "チュウ",
+      "ひる"
+    ],
+    "meanings": [
+      "daytime",
+      "noon"
+    ]
+  },
+  {
+    "char": "柱",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "チュウ",
+      "はしら"
+    ],
+    "meanings": [
+      "pillar",
+      "post",
+      "cylinder",
+      "support"
+    ]
+  },
+  {
+    "char": "注",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "チュウ",
+      "そそ.ぐ",
+      "さ.す",
+      "つ.ぐ"
+    ],
+    "meanings": [
+      "pour",
+      "irrigate",
+      "shed (tears)",
+      "flow into",
+      "concentrate on",
+      "notes",
+      "comment",
+      "annotate"
+    ]
+  },
+  {
+    "char": "虫",
+    "grade": 1,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "チュウ",
+      "キ",
+      "むし"
+    ],
+    "meanings": [
+      "insect",
+      "bug",
+      "temper"
+    ]
+  },
+  {
+    "char": "丁",
+    "grade": 3,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "チョウ",
+      "テイ",
+      "チン",
+      "トウ",
+      "チ",
+      "ひのと"
+    ],
+    "meanings": [
+      "street",
+      "ward",
+      "town",
+      "counter for guns, tools, leaves or cakes of something",
+      "even number",
+      "4th calendar sign"
+    ]
+  },
+  {
+    "char": "兆",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "チョウ",
+      "きざ.す",
+      "きざ.し"
+    ],
+    "meanings": [
+      "portent",
+      "10**12",
+      "trillion",
+      "sign",
+      "omen",
+      "symptoms"
+    ]
+  },
+  {
+    "char": "帳",
+    "grade": 3,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "チョウ",
+      "とばり"
+    ],
+    "meanings": [
+      "notebook",
+      "account book",
+      "album",
+      "curtain",
+      "veil",
+      "net",
+      "tent"
+    ]
+  },
+  {
+    "char": "朝",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "チョウ",
+      "あさ"
+    ],
+    "meanings": [
+      "morning",
+      "dynasty",
+      "regime",
+      "epoch",
+      "period",
+      "(North) Korea"
+    ]
+  },
+  {
+    "char": "町",
+    "grade": 1,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "チョウ",
+      "まち"
+    ],
+    "meanings": [
+      "town",
+      "village",
+      "block",
+      "street"
+    ]
+  },
+  {
+    "char": "調",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "チョウ",
+      "しら.べる",
+      "しら.べ",
+      "ととの.う",
+      "ととの.える"
+    ],
+    "meanings": [
+      "tune",
+      "tone",
+      "meter",
+      "key (music)",
+      "writing style",
+      "prepare",
+      "exorcise",
+      "investigate",
+      "harmonize",
+      "mediate"
+    ]
+  },
+  {
+    "char": "長",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "チョウ",
+      "なが.い",
+      "おさ"
+    ],
+    "meanings": [
+      "long",
+      "leader",
+      "superior",
+      "senior"
+    ]
+  },
+  {
+    "char": "鳥",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "チョウ",
+      "とり"
+    ],
+    "meanings": [
+      "bird",
+      "chicken"
+    ]
+  },
+  {
+    "char": "直",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "チョク",
+      "ジキ",
+      "ジカ",
+      "ただ.ちに",
+      "なお.す",
+      "-なお.す",
+      "なお.る",
+      "なお.き",
+      "す.ぐ"
+    ],
+    "meanings": [
+      "straightaway",
+      "honesty",
+      "frankness",
+      "fix",
+      "repair"
+    ]
+  },
+  {
+    "char": "追",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ツイ",
+      "お.う"
+    ],
+    "meanings": [
+      "chase",
+      "drive away",
+      "follow",
+      "pursue",
+      "meanwhile"
+    ]
+  },
+  {
+    "char": "通",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ツウ",
+      "ツ",
+      "とお.る",
+      "とお.り",
+      "-とお.り",
+      "-どお.り",
+      "とお.す",
+      "とお.し",
+      "-どお.し",
+      "かよ.う"
+    ],
+    "meanings": [
+      "traffic",
+      "pass through",
+      "avenue",
+      "commute",
+      "counter for letters, notes, documents, etc."
+    ]
+  },
+  {
+    "char": "低",
+    "grade": 4,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "テイ",
+      "ひく.い",
+      "ひく.める",
+      "ひく.まる"
+    ],
+    "meanings": [
+      "lower",
+      "short",
+      "humble"
+    ]
+  },
+  {
+    "char": "定",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "テイ",
+      "ジョウ",
+      "さだ.める",
+      "さだ.まる",
+      "さだ.か"
+    ],
+    "meanings": [
+      "determine",
+      "fix",
+      "establish",
+      "decide"
+    ]
+  },
+  {
+    "char": "底",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "テイ",
+      "そこ"
+    ],
+    "meanings": [
+      "bottom",
+      "sole",
+      "depth",
+      "bottom price",
+      "base",
+      "kind",
+      "sort"
+    ]
+  },
+  {
+    "char": "庭",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "テイ",
+      "にわ"
+    ],
+    "meanings": [
+      "courtyard",
+      "garden",
+      "yard"
+    ]
+  },
+  {
+    "char": "弟",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "テイ",
+      "ダイ",
+      "デ",
+      "おとうと"
+    ],
+    "meanings": [
+      "younger brother",
+      "faithful service to elders"
+    ]
+  },
+  {
+    "char": "的",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "テキ",
+      "まと"
+    ],
+    "meanings": [
+      "bull's eye",
+      "mark",
+      "target",
+      "object",
+      "adjective ending"
+    ]
+  },
+  {
+    "char": "笛",
+    "grade": 3,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "テキ",
+      "ふえ"
+    ],
+    "meanings": [
+      "flute",
+      "clarinet",
+      "pipe",
+      "whistle",
+      "bagpipe",
+      "piccolo"
+    ]
+  },
+  {
+    "char": "鉄",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "テツ",
+      "くろがね"
+    ],
+    "meanings": [
+      "iron"
+    ]
+  },
+  {
+    "char": "典",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "テン",
+      "デン",
+      "ふみ",
+      "のり"
+    ],
+    "meanings": [
+      "code",
+      "ceremony",
+      "law",
+      "rule"
+    ]
+  },
+  {
+    "char": "天",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "テン",
+      "あまつ",
+      "あめ",
+      "あま-"
+    ],
+    "meanings": [
+      "heavens",
+      "sky",
+      "imperial"
+    ]
+  },
+  {
+    "char": "店",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "テン",
+      "みせ",
+      "たな"
+    ],
+    "meanings": [
+      "store",
+      "shop"
+    ]
+  },
+  {
+    "char": "転",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "テン",
+      "ころ.がる",
+      "ころ.げる",
+      "ころ.がす",
+      "ころ.ぶ",
+      "まろ.ぶ",
+      "うたた",
+      "うつ.る",
+      "くる.めく"
+    ],
+    "meanings": [
+      "revolve",
+      "turn around",
+      "change"
+    ]
+  },
+  {
+    "char": "点",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "テン",
+      "つ.ける",
+      "つ.く",
+      "た.てる",
+      "さ.す",
+      "とぼ.す",
+      "とも.す",
+      "ぼち"
+    ],
+    "meanings": [
+      "spot",
+      "point",
+      "mark",
+      "speck",
+      "decimal point"
+    ]
+  },
+  {
+    "char": "伝",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "デン",
+      "テン",
+      "つた.わる",
+      "つた.える",
+      "つた.う",
+      "つだ.う",
+      "-づた.い",
+      "つて"
+    ],
+    "meanings": [
+      "transmit",
+      "go along",
+      "walk along",
+      "follow",
+      "report",
+      "communicate",
+      "legend",
+      "tradition"
+    ]
+  },
+  {
+    "char": "田",
+    "grade": 1,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "デン",
+      "た"
+    ],
+    "meanings": [
+      "rice field",
+      "rice paddy"
+    ]
+  },
+  {
+    "char": "電",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "デン"
+    ],
+    "meanings": [
+      "electricity"
+    ]
+  },
+  {
+    "char": "徒",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ト",
+      "いたずら",
+      "あだ"
+    ],
+    "meanings": [
+      "on foot",
+      "junior",
+      "emptiness",
+      "vanity",
+      "futility",
+      "uselessness",
+      "ephemeral thing",
+      "gang",
+      "set",
+      "party",
+      "people"
+    ]
+  },
+  {
+    "char": "登",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "トウ",
+      "ト",
+      "ドウ",
+      "ショウ",
+      "チョウ",
+      "のぼ.る",
+      "あ.がる"
+    ],
+    "meanings": [
+      "ascend",
+      "climb up"
+    ]
+  },
+  {
+    "char": "都",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ト",
+      "ツ",
+      "みやこ"
+    ],
+    "meanings": [
+      "metropolis",
+      "capital",
+      "all",
+      "everything"
+    ]
+  },
+  {
+    "char": "努",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ド",
+      "つと.める"
+    ],
+    "meanings": [
+      "toil",
+      "diligent",
+      "as much as possible"
+    ]
+  },
+  {
+    "char": "度",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ド",
+      "ト",
+      "タク",
+      "たび",
+      "-た.い"
+    ],
+    "meanings": [
+      "degrees",
+      "occurrence",
+      "time",
+      "counter for occurrences",
+      "consider",
+      "attitude"
+    ]
+  },
+  {
+    "char": "土",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ド",
+      "ト",
+      "つち"
+    ],
+    "meanings": [
+      "soil",
+      "earth",
+      "ground",
+      "Turkey"
+    ]
+  },
+  {
+    "char": "冬",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "トウ",
+      "ふゆ"
+    ],
+    "meanings": [
+      "winter"
+    ]
+  },
+  {
+    "char": "刀",
+    "grade": 2,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "トウ",
+      "かたな",
+      "そり"
+    ],
+    "meanings": [
+      "sword",
+      "saber",
+      "knife"
+    ]
+  },
+  {
+    "char": "島",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "トウ",
+      "しま"
+    ],
+    "meanings": [
+      "island"
+    ]
+  },
+  {
+    "char": "投",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "トウ",
+      "な.げる",
+      "-な.げ"
+    ],
+    "meanings": [
+      "throw",
+      "discard",
+      "abandon",
+      "launch into",
+      "join",
+      "invest in",
+      "hurl",
+      "give up",
+      "sell at a loss"
+    ]
+  },
+  {
+    "char": "東",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "トウ",
+      "ひがし"
+    ],
+    "meanings": [
+      "east"
+    ]
+  },
+  {
+    "char": "湯",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "トウ",
+      "ゆ"
+    ],
+    "meanings": [
+      "hot water",
+      "bath",
+      "hot spring"
+    ]
+  },
+  {
+    "char": "灯",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "トウ",
+      "ひ",
+      "ほ-",
+      "ともしび",
+      "とも.す",
+      "あかり"
+    ],
+    "meanings": [
+      "lamp",
+      "a light",
+      "light",
+      "counter for lights"
+    ]
+  },
+  {
+    "char": "当",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "トウ",
+      "あ.たる",
+      "あ.たり",
+      "あ.てる",
+      "あ.て",
+      "まさ.に",
+      "まさ.にべし"
+    ],
+    "meanings": [
+      "hit",
+      "right",
+      "appropriate",
+      "himself"
+    ]
+  },
+  {
+    "char": "等",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "トウ",
+      "ひと.しい",
+      "など",
+      "-ら"
+    ],
+    "meanings": [
+      "etc.",
+      "and so forth",
+      "class (first)",
+      "quality",
+      "equal",
+      "similar"
+    ]
+  },
+  {
+    "char": "答",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "トウ",
+      "こた.える",
+      "こた.え"
+    ],
+    "meanings": [
+      "solution",
+      "answer"
+    ]
+  },
+  {
+    "char": "豆",
+    "grade": 3,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "トウ",
+      "ズ",
+      "まめ",
+      "まめ-"
+    ],
+    "meanings": [
+      "beans",
+      "pea",
+      "midget"
+    ]
+  },
+  {
+    "char": "頭",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "トウ",
+      "ズ",
+      "ト",
+      "あたま",
+      "かしら",
+      "-がしら",
+      "かぶり"
+    ],
+    "meanings": [
+      "head",
+      "counter for large animals"
+    ]
+  },
+  {
+    "char": "働",
+    "grade": 4,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ドウ",
+      "はたら.く"
+    ],
+    "meanings": [
+      "work",
+      "(kokuji)"
+    ]
+  },
+  {
+    "char": "動",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ドウ",
+      "うご.く",
+      "うご.かす"
+    ],
+    "meanings": [
+      "move",
+      "motion",
+      "change",
+      "confusion",
+      "shift",
+      "shake"
+    ]
+  },
+  {
+    "char": "同",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ドウ",
+      "おな.じ"
+    ],
+    "meanings": [
+      "same",
+      "agree",
+      "equal"
+    ]
+  },
+  {
+    "char": "童",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ドウ",
+      "わらべ"
+    ],
+    "meanings": [
+      "juvenile",
+      "child"
+    ]
+  },
+  {
+    "char": "道",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ドウ",
+      "トウ",
+      "みち",
+      "いう"
+    ],
+    "meanings": [
+      "road-way",
+      "street",
+      "district",
+      "journey",
+      "course",
+      "moral",
+      "teachings"
+    ]
+  },
+  {
+    "char": "徳",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "トク"
+    ],
+    "meanings": [
+      "benevolence",
+      "virtue",
+      "goodness",
+      "commanding respect"
+    ]
+  },
+  {
+    "char": "特",
+    "grade": 4,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "トク"
+    ],
+    "meanings": [
+      "special"
+    ]
+  },
+  {
+    "char": "読",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ドク",
+      "トク",
+      "トウ",
+      "よ.む",
+      "-よ.み"
+    ],
+    "meanings": [
+      "read"
+    ]
+  },
+  {
+    "char": "栃",
+    "grade": 4,
+    "jlpt_old_scale": null,
+    "readings": [
+      "とち"
+    ],
+    "meanings": [
+      "horse chestnut",
+      "(kokuji)"
+    ]
+  },
+  {
+    "char": "奈",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "ナ",
+      "ナイ",
+      "ダイ",
+      "いかん",
+      "からなし"
+    ],
+    "meanings": [
+      "Nara",
+      "what?"
+    ]
+  },
+  {
+    "char": "内",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ナイ",
+      "ダイ",
+      "うち"
+    ],
+    "meanings": [
+      "inside",
+      "within",
+      "between",
+      "among",
+      "house",
+      "home"
+    ]
+  },
+  {
+    "char": "縄",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "ジョウ",
+      "なわ",
+      "ただ.す"
+    ],
+    "meanings": [
+      "straw rope",
+      "cord"
+    ]
+  },
+  {
+    "char": "南",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ナン",
+      "ナ",
+      "みなみ"
+    ],
+    "meanings": [
+      "south"
+    ]
+  },
+  {
+    "char": "二",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ニ",
+      "ジ",
+      "ふた",
+      "ふた.つ",
+      "ふたたび"
+    ],
+    "meanings": [
+      "two",
+      "two radical (no. 7)"
+    ]
+  },
+  {
+    "char": "肉",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ニク",
+      "しし"
+    ],
+    "meanings": [
+      "meat"
+    ]
+  },
+  {
+    "char": "日",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ニチ",
+      "ジツ",
+      "ひ",
+      "-び",
+      "-か"
+    ],
+    "meanings": [
+      "day",
+      "sun",
+      "Japan",
+      "counter for days"
+    ]
+  },
+  {
+    "char": "入",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ニュウ",
+      "ジュ",
+      "い.る",
+      "-い.る",
+      "-い.り",
+      "い.れる",
+      "-い.れ",
+      "はい.る"
+    ],
+    "meanings": [
+      "enter",
+      "insert"
+    ]
+  },
+  {
+    "char": "熱",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ネツ",
+      "あつ.い"
+    ],
+    "meanings": [
+      "heat",
+      "temperature",
+      "fever",
+      "mania",
+      "passion"
+    ]
+  },
+  {
+    "char": "年",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ネン",
+      "とし"
+    ],
+    "meanings": [
+      "year",
+      "counter for years"
+    ]
+  },
+  {
+    "char": "念",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ネン"
+    ],
+    "meanings": [
+      "wish",
+      "sense",
+      "idea",
+      "thought",
+      "feeling",
+      "desire",
+      "attention"
+    ]
+  },
+  {
+    "char": "農",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ノウ"
+    ],
+    "meanings": [
+      "agriculture",
+      "farmers"
+    ]
+  },
+  {
+    "char": "波",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ハ",
+      "なみ"
+    ],
+    "meanings": [
+      "waves",
+      "billows",
+      "Poland"
+    ]
+  },
+  {
+    "char": "馬",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "バ",
+      "メ",
+      "マ",
+      "ボ",
+      "モ",
+      "うま",
+      "ま"
+    ],
+    "meanings": [
+      "horse"
+    ]
+  },
+  {
+    "char": "敗",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ハイ",
+      "やぶ.れる"
+    ],
+    "meanings": [
+      "failure",
+      "defeat",
+      "reversal"
+    ]
+  },
+  {
+    "char": "配",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ハイ",
+      "くば.る"
+    ],
+    "meanings": [
+      "distribute",
+      "spouse",
+      "exile",
+      "rationing"
+    ]
+  },
+  {
+    "char": "倍",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "バイ"
+    ],
+    "meanings": [
+      "double",
+      "twice",
+      "times",
+      "fold"
+    ]
+  },
+  {
+    "char": "梅",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "バイ",
+      "うめ"
+    ],
+    "meanings": [
+      "plum"
+    ]
+  },
+  {
+    "char": "買",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "バイ",
+      "か.う"
+    ],
+    "meanings": [
+      "buy"
+    ]
+  },
+  {
+    "char": "売",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "バイ",
+      "う.る",
+      "う.れる"
+    ],
+    "meanings": [
+      "sell"
+    ]
+  },
+  {
+    "char": "博",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "ハク",
+      "バク"
+    ],
+    "meanings": [
+      "Dr.",
+      "command",
+      "esteem",
+      "win acclaim",
+      "Ph.D.",
+      "exposition",
+      "fair"
+    ]
+  },
+  {
+    "char": "白",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ハク",
+      "ビャク",
+      "しろ",
+      "しら-",
+      "しろ.い"
+    ],
+    "meanings": [
+      "white"
+    ]
+  },
+  {
+    "char": "麦",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "バク",
+      "むぎ"
+    ],
+    "meanings": [
+      "barley",
+      "wheat"
+    ]
+  },
+  {
+    "char": "箱",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ソウ",
+      "はこ"
+    ],
+    "meanings": [
+      "box",
+      "chest",
+      "case",
+      "bin",
+      "railway car"
+    ]
+  },
+  {
+    "char": "畑",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "はた",
+      "はたけ",
+      "-ばたけ"
+    ],
+    "meanings": [
+      "farm",
+      "field",
+      "garden",
+      "one's specialty",
+      "(kokuji)"
+    ]
+  },
+  {
+    "char": "八",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ハチ",
+      "ハツ",
+      "や",
+      "や.つ",
+      "やっ.つ",
+      "よう"
+    ],
+    "meanings": [
+      "eight",
+      "eight radical (no. 12)"
+    ]
+  },
+  {
+    "char": "発",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ハツ",
+      "ホツ",
+      "た.つ",
+      "あば.く",
+      "おこ.る",
+      "つか.わす",
+      "はな.つ"
+    ],
+    "meanings": [
+      "departure",
+      "discharge",
+      "publish",
+      "emit",
+      "start from",
+      "disclose",
+      "counter for gunshots"
+    ]
+  },
+  {
+    "char": "半",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ハン",
+      "なか.ば"
+    ],
+    "meanings": [
+      "half",
+      "middle",
+      "odd number",
+      "semi-",
+      "part-"
+    ]
+  },
+  {
+    "char": "反",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ハン",
+      "ホン",
+      "タン",
+      "ホ",
+      "そ.る",
+      "そ.らす",
+      "かえ.す",
+      "かえ.る",
+      "-かえ.る"
+    ],
+    "meanings": [
+      "anti-"
+    ]
+  },
+  {
+    "char": "板",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ハン",
+      "バン",
+      "いた"
+    ],
+    "meanings": [
+      "plank",
+      "board",
+      "plate",
+      "stage"
+    ]
+  },
+  {
+    "char": "飯",
+    "grade": 4,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ハン",
+      "めし"
+    ],
+    "meanings": [
+      "meal",
+      "boiled rice"
+    ]
+  },
+  {
+    "char": "番",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "バン",
+      "つが.い"
+    ],
+    "meanings": [
+      "turn",
+      "number in a series"
+    ]
+  },
+  {
+    "char": "悲",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ヒ",
+      "かな.しい",
+      "かな.しむ"
+    ],
+    "meanings": [
+      "grieve",
+      "sad",
+      "deplore",
+      "regret"
+    ]
+  },
+  {
+    "char": "皮",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ヒ",
+      "かわ"
+    ],
+    "meanings": [
+      "pelt",
+      "skin",
+      "hide",
+      "leather",
+      "skin radical (no. 107)"
+    ]
+  },
+  {
+    "char": "飛",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ヒ",
+      "と.ぶ",
+      "と.ばす",
+      "-と.ばす"
+    ],
+    "meanings": [
+      "fly",
+      "skip (pages)",
+      "scatter"
+    ]
+  },
+  {
+    "char": "美",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ビ",
+      "ミ",
+      "うつく.しい"
+    ],
+    "meanings": [
+      "beauty",
+      "beautiful"
+    ]
+  },
+  {
+    "char": "鼻",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ビ",
+      "はな"
+    ],
+    "meanings": [
+      "nose",
+      "snout"
+    ]
+  },
+  {
+    "char": "必",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ヒツ",
+      "かなら.ず"
+    ],
+    "meanings": [
+      "invariably",
+      "certain",
+      "inevitable"
+    ]
+  },
+  {
+    "char": "筆",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ヒツ",
+      "ふで"
+    ],
+    "meanings": [
+      "writing brush",
+      "writing",
+      "painting brush",
+      "handwriting"
+    ]
+  },
+  {
+    "char": "媛",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "エン",
+      "ひめ"
+    ],
+    "meanings": [
+      "beautiful woman",
+      "princess"
+    ]
+  },
+  {
+    "char": "百",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ヒャク",
+      "ビャク",
+      "もも"
+    ],
+    "meanings": [
+      "hundred"
+    ]
+  },
+  {
+    "char": "標",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ヒョウ",
+      "しるべ",
+      "しるし"
+    ],
+    "meanings": [
+      "signpost",
+      "seal",
+      "mark",
+      "stamp",
+      "imprint",
+      "symbol",
+      "emblem",
+      "trademark",
+      "evidence",
+      "souvenir",
+      "target"
+    ]
+  },
+  {
+    "char": "氷",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ヒョウ",
+      "こおり",
+      "ひ",
+      "こお.る"
+    ],
+    "meanings": [
+      "icicle",
+      "ice",
+      "hail",
+      "freeze",
+      "congeal"
+    ]
+  },
+  {
+    "char": "票",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "ヒョウ"
+    ],
+    "meanings": [
+      "ballot",
+      "label",
+      "ticket",
+      "sign"
+    ]
+  },
+  {
+    "char": "表",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ヒョウ",
+      "おもて",
+      "-おもて",
+      "あらわ.す",
+      "あらわ.れる",
+      "あら.わす"
+    ],
+    "meanings": [
+      "surface",
+      "table",
+      "chart",
+      "diagram"
+    ]
+  },
+  {
+    "char": "病",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ビョウ",
+      "ヘイ",
+      "や.む",
+      "-や.み",
+      "やまい"
+    ],
+    "meanings": [
+      "ill",
+      "sick"
+    ]
+  },
+  {
+    "char": "秒",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ビョウ"
+    ],
+    "meanings": [
+      "second (1/60 minute)"
+    ]
+  },
+  {
+    "char": "品",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ヒン",
+      "ホン",
+      "しな"
+    ],
+    "meanings": [
+      "goods",
+      "refinement",
+      "dignity",
+      "article",
+      "counter for meal courses"
+    ]
+  },
+  {
+    "char": "不",
+    "grade": 4,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "フ",
+      "ブ"
+    ],
+    "meanings": [
+      "negative",
+      "non-",
+      "bad",
+      "ugly",
+      "clumsy"
+    ]
+  },
+  {
+    "char": "付",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "フ",
+      "つ.ける",
+      "-つ.ける",
+      "-づ.ける",
+      "つ.け",
+      "つ.け-",
+      "-つ.け",
+      "-づ.け",
+      "-づけ",
+      "つ.く",
+      "-づ.く",
+      "つ.き",
+      "-つ.き",
+      "-つき",
+      "-づ.き",
+      "-づき"
+    ],
+    "meanings": [
+      "adhere",
+      "attach",
+      "refer to",
+      "append"
+    ]
+  },
+  {
+    "char": "夫",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "フ",
+      "フウ",
+      "ブ",
+      "おっと",
+      "それ"
+    ],
+    "meanings": [
+      "husband",
+      "man"
+    ]
+  },
+  {
+    "char": "富",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "フ",
+      "フウ",
+      "と.む",
+      "とみ"
+    ],
+    "meanings": [
+      "wealth",
+      "enrich",
+      "abundant"
+    ]
+  },
+  {
+    "char": "府",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "フ"
+    ],
+    "meanings": [
+      "borough",
+      "urban prefecture",
+      "govt office",
+      "representative body",
+      "storehouse"
+    ]
+  },
+  {
+    "char": "父",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "フ",
+      "ちち"
+    ],
+    "meanings": [
+      "father"
+    ]
+  },
+  {
+    "char": "負",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "フ",
+      "ま.ける",
+      "ま.かす",
+      "お.う"
+    ],
+    "meanings": [
+      "defeat",
+      "negative",
+      "-",
+      "minus",
+      "bear",
+      "owe",
+      "assume a responsibility"
+    ]
+  },
+  {
+    "char": "阜",
+    "grade": 4,
+    "jlpt_old_scale": null,
+    "readings": [
+      "フ",
+      "フウ"
+    ],
+    "meanings": [
+      "hill",
+      "mound",
+      "left village radical (no. 170)"
+    ]
+  },
+  {
+    "char": "部",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ブ",
+      "-べ"
+    ],
+    "meanings": [
+      "section",
+      "bureau",
+      "dept",
+      "class",
+      "copy",
+      "part",
+      "portion",
+      "counter for copies of a newspaper or magazine"
+    ]
+  },
+  {
+    "char": "風",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "フウ",
+      "フ",
+      "かぜ",
+      "かざ-"
+    ],
+    "meanings": [
+      "wind",
+      "air",
+      "style",
+      "manner"
+    ]
+  },
+  {
+    "char": "副",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "フク"
+    ],
+    "meanings": [
+      "vice-",
+      "assistant",
+      "aide",
+      "duplicate",
+      "copy"
+    ]
+  },
+  {
+    "char": "服",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "フク"
+    ],
+    "meanings": [
+      "clothing",
+      "admit",
+      "obey",
+      "discharge"
+    ]
+  },
+  {
+    "char": "福",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "フク"
+    ],
+    "meanings": [
+      "blessing",
+      "fortune",
+      "luck",
+      "wealth"
+    ]
+  },
+  {
+    "char": "物",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ブツ",
+      "モツ",
+      "もの",
+      "もの-"
+    ],
+    "meanings": [
+      "thing",
+      "object",
+      "matter"
+    ]
+  },
+  {
+    "char": "分",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ブン",
+      "フン",
+      "ブ",
+      "わ.ける",
+      "わ.け",
+      "わ.かれる",
+      "わ.かる",
+      "わ.かつ"
+    ],
+    "meanings": [
+      "part",
+      "minute of time",
+      "segment",
+      "share",
+      "degree",
+      "one's lot",
+      "duty",
+      "understand",
+      "know",
+      "rate",
+      "1%",
+      "chances",
+      "shaku/100"
+    ]
+  },
+  {
+    "char": "文",
+    "grade": 1,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ブン",
+      "モン",
+      "ふみ",
+      "あや"
+    ],
+    "meanings": [
+      "sentence",
+      "literature",
+      "style",
+      "art",
+      "decoration",
+      "figures",
+      "plan",
+      "literary radical (no. 67)"
+    ]
+  },
+  {
+    "char": "聞",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ブン",
+      "モン",
+      "き.く",
+      "き.こえる"
+    ],
+    "meanings": [
+      "hear",
+      "ask",
+      "listen"
+    ]
+  },
+  {
+    "char": "兵",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ヘイ",
+      "ヒョウ",
+      "つわもの"
+    ],
+    "meanings": [
+      "soldier",
+      "private",
+      "troops",
+      "army",
+      "warfare",
+      "strategy",
+      "tactics"
+    ]
+  },
+  {
+    "char": "平",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ヘイ",
+      "ビョウ",
+      "ヒョウ",
+      "たい.ら",
+      "たい.らげる",
+      "ひら"
+    ],
+    "meanings": [
+      "even",
+      "flat",
+      "peace"
+    ]
+  },
+  {
+    "char": "米",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ベイ",
+      "マイ",
+      "メエトル",
+      "こめ",
+      "よね"
+    ],
+    "meanings": [
+      "rice",
+      "USA",
+      "metre"
+    ]
+  },
+  {
+    "char": "別",
+    "grade": 4,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ベツ",
+      "わか.れる",
+      "わ.ける"
+    ],
+    "meanings": [
+      "separate",
+      "branch off",
+      "diverge",
+      "fork",
+      "another",
+      "extra",
+      "specially"
+    ]
+  },
+  {
+    "char": "変",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ヘン",
+      "か.わる",
+      "か.わり",
+      "か.える"
+    ],
+    "meanings": [
+      "unusual",
+      "change",
+      "strange"
+    ]
+  },
+  {
+    "char": "辺",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ヘン",
+      "あた.り",
+      "ほと.り",
+      "-べ"
+    ],
+    "meanings": [
+      "environs",
+      "boundary",
+      "border",
+      "vicinity"
+    ]
+  },
+  {
+    "char": "返",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ヘン",
+      "かえ.す",
+      "-かえ.す",
+      "かえ.る",
+      "-かえ.る"
+    ],
+    "meanings": [
+      "return",
+      "answer",
+      "fade",
+      "repay"
+    ]
+  },
+  {
+    "char": "便",
+    "grade": 4,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ベン",
+      "ビン",
+      "たよ.り"
+    ],
+    "meanings": [
+      "convenience",
+      "facility",
+      "excrement",
+      "feces",
+      "letter",
+      "chance"
+    ]
+  },
+  {
+    "char": "勉",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ベン",
+      "つと.める"
+    ],
+    "meanings": [
+      "exertion",
+      "endeavour",
+      "encourage",
+      "strive",
+      "make effort",
+      "diligent"
+    ]
+  },
+  {
+    "char": "歩",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ホ",
+      "ブ",
+      "フ",
+      "ある.く",
+      "あゆ.む"
+    ],
+    "meanings": [
+      "walk",
+      "counter for steps"
+    ]
+  },
+  {
+    "char": "母",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ボ",
+      "はは",
+      "も"
+    ],
+    "meanings": [
+      "mother"
+    ]
+  },
+  {
+    "char": "包",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ホウ",
+      "つつ.む",
+      "くる.む"
+    ],
+    "meanings": [
+      "wrap",
+      "pack up",
+      "cover",
+      "conceal"
+    ]
+  },
+  {
+    "char": "放",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ホウ",
+      "はな.す",
+      "-っぱな.し",
+      "はな.つ",
+      "はな.れる",
+      "こ.く",
+      "ほう.る"
+    ],
+    "meanings": [
+      "set free",
+      "release",
+      "fire",
+      "shoot",
+      "emit",
+      "banish",
+      "liberate"
+    ]
+  },
+  {
+    "char": "方",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ホウ",
+      "かた",
+      "-かた",
+      "-がた"
+    ],
+    "meanings": [
+      "direction",
+      "person",
+      "alternative"
+    ]
+  },
+  {
+    "char": "法",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ホウ",
+      "ハッ",
+      "ホッ",
+      "フラン",
+      "のり"
+    ],
+    "meanings": [
+      "method",
+      "law",
+      "rule",
+      "principle",
+      "model",
+      "system"
+    ]
+  },
+  {
+    "char": "望",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ボウ",
+      "モウ",
+      "のぞ.む",
+      "もち"
+    ],
+    "meanings": [
+      "ambition",
+      "full moon",
+      "hope",
+      "desire",
+      "aspire to",
+      "expect"
+    ]
+  },
+  {
+    "char": "北",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ホク",
+      "きた"
+    ],
+    "meanings": [
+      "north"
+    ]
+  },
+  {
+    "char": "牧",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "ボク",
+      "まき"
+    ],
+    "meanings": [
+      "breed",
+      "care for",
+      "shepherd",
+      "feed",
+      "pasture"
+    ]
+  },
+  {
+    "char": "本",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ホン",
+      "もと"
+    ],
+    "meanings": [
+      "book",
+      "present",
+      "main",
+      "origin",
+      "true",
+      "real",
+      "counter for long cylindrical things"
+    ]
+  },
+  {
+    "char": "妹",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "マイ",
+      "いもうと"
+    ],
+    "meanings": [
+      "younger sister"
+    ]
+  },
+  {
+    "char": "毎",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "マイ",
+      "ごと",
+      "-ごと.に"
+    ],
+    "meanings": [
+      "every"
+    ]
+  },
+  {
+    "char": "末",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "マツ",
+      "バツ",
+      "すえ",
+      "うら",
+      "うれ"
+    ],
+    "meanings": [
+      "end",
+      "close",
+      "tip",
+      "powder",
+      "posterity"
+    ]
+  },
+  {
+    "char": "万",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "マン",
+      "バン",
+      "よろず"
+    ],
+    "meanings": [
+      "ten thousand",
+      "10,000"
+    ]
+  },
+  {
+    "char": "満",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "マン",
+      "バン",
+      "み.ちる",
+      "み.つ",
+      "み.たす"
+    ],
+    "meanings": [
+      "full",
+      "fullness",
+      "enough",
+      "satisfy"
+    ]
+  },
+  {
+    "char": "味",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ミ",
+      "あじ",
+      "あじ.わう"
+    ],
+    "meanings": [
+      "flavor",
+      "taste"
+    ]
+  },
+  {
+    "char": "未",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ミ",
+      "ビ",
+      "いま.だ",
+      "ま.だ",
+      "ひつじ"
+    ],
+    "meanings": [
+      "un-",
+      "not yet",
+      "hitherto",
+      "still",
+      "even now",
+      "sign of the ram",
+      "1-3PM",
+      "eighth sign of Chinese zodiac"
+    ]
+  },
+  {
+    "char": "民",
+    "grade": 4,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ミン",
+      "たみ"
+    ],
+    "meanings": [
+      "people",
+      "nation",
+      "subjects"
+    ]
+  },
+  {
+    "char": "無",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ム",
+      "ブ",
+      "な.い"
+    ],
+    "meanings": [
+      "nothingness",
+      "none",
+      "ain't",
+      "nothing",
+      "nil",
+      "not"
+    ]
+  },
+  {
+    "char": "名",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "メイ",
+      "ミョウ",
+      "な",
+      "-な"
+    ],
+    "meanings": [
+      "name",
+      "noted",
+      "distinguished",
+      "reputation"
+    ]
+  },
+  {
+    "char": "命",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "メイ",
+      "ミョウ",
+      "いのち"
+    ],
+    "meanings": [
+      "fate",
+      "command",
+      "decree",
+      "destiny",
+      "life",
+      "appoint"
+    ]
+  },
+  {
+    "char": "明",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "メイ",
+      "ミョウ",
+      "ミン",
+      "あ.かり",
+      "あか.るい",
+      "あか.るむ",
+      "あか.らむ",
+      "あき.らか",
+      "あ.ける",
+      "-あ.け",
+      "あ.く",
+      "あ.くる",
+      "あ.かす"
+    ],
+    "meanings": [
+      "bright",
+      "light"
+    ]
+  },
+  {
+    "char": "鳴",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "メイ",
+      "な.く",
+      "な.る",
+      "な.らす"
+    ],
+    "meanings": [
+      "chirp",
+      "cry",
+      "bark",
+      "sound",
+      "ring",
+      "echo",
+      "honk"
+    ]
+  },
+  {
+    "char": "面",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "メン",
+      "ベン",
+      "おも",
+      "おもて",
+      "つら"
+    ],
+    "meanings": [
+      "mask",
+      "face",
+      "features",
+      "surface"
+    ]
+  },
+  {
+    "char": "毛",
+    "grade": 2,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "モウ",
+      "け"
+    ],
+    "meanings": [
+      "fur",
+      "hair",
+      "feather",
+      "down"
+    ]
+  },
+  {
+    "char": "木",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ボク",
+      "モク",
+      "き",
+      "こ-"
+    ],
+    "meanings": [
+      "tree",
+      "wood"
+    ]
+  },
+  {
+    "char": "目",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "モク",
+      "ボク",
+      "め",
+      "-め",
+      "ま-"
+    ],
+    "meanings": [
+      "eye",
+      "class",
+      "look",
+      "insight",
+      "experience",
+      "care",
+      "favor"
+    ]
+  },
+  {
+    "char": "問",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "モン",
+      "と.う",
+      "と.い",
+      "とん"
+    ],
+    "meanings": [
+      "question",
+      "ask",
+      "problem"
+    ]
+  },
+  {
+    "char": "門",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "モン",
+      "かど",
+      "と"
+    ],
+    "meanings": [
+      "gate",
+      "counter for cannons"
+    ]
+  },
+  {
+    "char": "夜",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ヤ",
+      "よ",
+      "よる"
+    ],
+    "meanings": [
+      "night",
+      "evening"
+    ]
+  },
+  {
+    "char": "野",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ヤ",
+      "ショ",
+      "の",
+      "の-"
+    ],
+    "meanings": [
+      "plains",
+      "field",
+      "rustic",
+      "civilian life"
+    ]
+  },
+  {
+    "char": "矢",
+    "grade": 2,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "シ",
+      "や"
+    ],
+    "meanings": [
+      "dart",
+      "arrow"
+    ]
+  },
+  {
+    "char": "役",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ヤク",
+      "エキ"
+    ],
+    "meanings": [
+      "duty",
+      "war",
+      "campaign",
+      "drafted labor",
+      "office",
+      "service",
+      "role"
+    ]
+  },
+  {
+    "char": "約",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ヤク",
+      "つづ.まる",
+      "つづ.める",
+      "つづま.やか"
+    ],
+    "meanings": [
+      "promise",
+      "approximately",
+      "shrink"
+    ]
+  },
+  {
+    "char": "薬",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ヤク",
+      "くすり"
+    ],
+    "meanings": [
+      "medicine",
+      "chemical",
+      "enamel",
+      "gunpowder",
+      "benefit"
+    ]
+  },
+  {
+    "char": "油",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ユ",
+      "ユウ",
+      "あぶら"
+    ],
+    "meanings": [
+      "oil",
+      "fat"
+    ]
+  },
+  {
+    "char": "勇",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ユウ",
+      "いさ.む"
+    ],
+    "meanings": [
+      "courage",
+      "cheer up",
+      "be in high spirits",
+      "bravery",
+      "heroism"
+    ]
+  },
+  {
+    "char": "友",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ユウ",
+      "とも"
+    ],
+    "meanings": [
+      "friend"
+    ]
+  },
+  {
+    "char": "有",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ユウ",
+      "ウ",
+      "あ.る"
+    ],
+    "meanings": [
+      "possess",
+      "have",
+      "exist",
+      "happen",
+      "occur",
+      "approx"
+    ]
+  },
+  {
+    "char": "由",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ユ",
+      "ユウ",
+      "ユイ",
+      "よし",
+      "よ.る"
+    ],
+    "meanings": [
+      "wherefore",
+      "a reason"
+    ]
+  },
+  {
+    "char": "遊",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ユウ",
+      "ユ",
+      "あそ.ぶ",
+      "あそ.ばす"
+    ],
+    "meanings": [
+      "play"
+    ]
+  },
+  {
+    "char": "夕",
+    "grade": 1,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "セキ",
+      "ゆう"
+    ],
+    "meanings": [
+      "evening"
+    ]
+  },
+  {
+    "char": "予",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ヨ",
+      "シャ",
+      "あらかじ.め"
+    ],
+    "meanings": [
+      "beforehand",
+      "previous",
+      "myself",
+      "I"
+    ]
+  },
+  {
+    "char": "曜",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ヨウ"
+    ],
+    "meanings": [
+      "weekday"
+    ]
+  },
+  {
+    "char": "様",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ヨウ",
+      "ショウ",
+      "さま",
+      "さん"
+    ],
+    "meanings": [
+      "Esq.",
+      "way",
+      "manner",
+      "situation",
+      "polite suffix"
+    ]
+  },
+  {
+    "char": "洋",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ヨウ"
+    ],
+    "meanings": [
+      "ocean",
+      "sea",
+      "foreign",
+      "Western style"
+    ]
+  },
+  {
+    "char": "用",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "ヨウ",
+      "もち.いる"
+    ],
+    "meanings": [
+      "utilize",
+      "business",
+      "service",
+      "use",
+      "employ"
+    ]
+  },
+  {
+    "char": "羊",
+    "grade": 3,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "ヨウ",
+      "ひつじ"
+    ],
+    "meanings": [
+      "sheep"
+    ]
+  },
+  {
+    "char": "葉",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ヨウ",
+      "は"
+    ],
+    "meanings": [
+      "leaf",
+      "plane",
+      "lobe",
+      "needle",
+      "blade",
+      "spear",
+      "counter for flat things",
+      "fragment",
+      "piece"
+    ]
+  },
+  {
+    "char": "要",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ヨウ",
+      "い.る",
+      "かなめ"
+    ],
+    "meanings": [
+      "need",
+      "main point",
+      "essence",
+      "pivot",
+      "key to"
+    ]
+  },
+  {
+    "char": "陽",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ヨウ",
+      "ひ"
+    ],
+    "meanings": [
+      "sunshine",
+      "yang principle",
+      "positive",
+      "male",
+      "heaven",
+      "daytime"
+    ]
+  },
+  {
+    "char": "養",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "ヨウ",
+      "リョウ",
+      "やしな.う"
+    ],
+    "meanings": [
+      "foster",
+      "bring up",
+      "rear",
+      "develop",
+      "nurture"
+    ]
+  },
+  {
+    "char": "浴",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ヨク",
+      "あ.びる",
+      "あ.びせる"
+    ],
+    "meanings": [
+      "bathe",
+      "be favored with",
+      "bask in"
+    ]
+  },
+  {
+    "char": "来",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ライ",
+      "タイ",
+      "く.る",
+      "きた.る",
+      "きた.す",
+      "き.たす",
+      "き.たる",
+      "き",
+      "こ"
+    ],
+    "meanings": [
+      "come",
+      "due",
+      "next",
+      "cause",
+      "become"
+    ]
+  },
+  {
+    "char": "落",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ラク",
+      "お.ちる",
+      "お.ち",
+      "お.とす"
+    ],
+    "meanings": [
+      "fall",
+      "drop",
+      "come down",
+      "village",
+      "hamlet"
+    ]
+  },
+  {
+    "char": "利",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "リ",
+      "き.く"
+    ],
+    "meanings": [
+      "profit",
+      "advantage",
+      "benefit"
+    ]
+  },
+  {
+    "char": "梨",
+    "grade": 4,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "リ",
+      "なし"
+    ],
+    "meanings": [
+      "pear tree"
+    ]
+  },
+  {
+    "char": "理",
+    "grade": 2,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "リ",
+      "ことわり"
+    ],
+    "meanings": [
+      "logic",
+      "arrangement",
+      "reason",
+      "justice",
+      "truth"
+    ]
+  },
+  {
+    "char": "里",
+    "grade": 2,
+    "jlpt_old_scale": 1,
+    "readings": [
+      "リ",
+      "さと"
+    ],
+    "meanings": [
+      "ri",
+      "village",
+      "parent's home",
+      "league"
+    ]
+  },
+  {
+    "char": "陸",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "リク",
+      "ロク",
+      "おか"
+    ],
+    "meanings": [
+      "land",
+      "six"
+    ]
+  },
+  {
+    "char": "立",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "リツ",
+      "リュウ",
+      "リットル",
+      "た.つ",
+      "-た.つ",
+      "た.ち-",
+      "た.てる",
+      "-た.てる",
+      "た.て-",
+      "たて-",
+      "-た.て",
+      "-だ.て",
+      "-だ.てる"
+    ],
+    "meanings": [
+      "stand up",
+      "rise",
+      "set up",
+      "erect"
+    ]
+  },
+  {
+    "char": "流",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "リュウ",
+      "ル",
+      "なが.れる",
+      "なが.れ",
+      "なが.す",
+      "-なが.す"
+    ],
+    "meanings": [
+      "current",
+      "a sink",
+      "flow",
+      "forfeit"
+    ]
+  },
+  {
+    "char": "旅",
+    "grade": 3,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "リョ",
+      "たび"
+    ],
+    "meanings": [
+      "trip",
+      "travel"
+    ]
+  },
+  {
+    "char": "両",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "リョウ",
+      "てる",
+      "ふたつ"
+    ],
+    "meanings": [
+      "both",
+      "old Japanese coin",
+      "counter for carriages (e.g., in a train)",
+      "two"
+    ]
+  },
+  {
+    "char": "料",
+    "grade": 4,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "リョウ"
+    ],
+    "meanings": [
+      "fee",
+      "materials"
+    ]
+  },
+  {
+    "char": "良",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "リョウ",
+      "よ.い",
+      "-よ.い",
+      "い.い",
+      "-い.い"
+    ],
+    "meanings": [
+      "good",
+      "pleasing",
+      "skilled"
+    ]
+  },
+  {
+    "char": "量",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "リョウ",
+      "はか.る"
+    ],
+    "meanings": [
+      "quantity",
+      "measure",
+      "weight",
+      "amount",
+      "consider",
+      "estimate",
+      "surmise"
+    ]
+  },
+  {
+    "char": "力",
+    "grade": 1,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "リョク",
+      "リキ",
+      "リイ",
+      "ちから"
+    ],
+    "meanings": [
+      "power",
+      "strength",
+      "strong",
+      "strain",
+      "bear up",
+      "exert"
+    ]
+  },
+  {
+    "char": "緑",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "リョク",
+      "ロク",
+      "みどり"
+    ],
+    "meanings": [
+      "green"
+    ]
+  },
+  {
+    "char": "林",
+    "grade": 1,
+    "jlpt_old_scale": 3,
+    "readings": [
+      "リン",
+      "はやし"
+    ],
+    "meanings": [
+      "grove",
+      "forest"
+    ]
+  },
+  {
+    "char": "輪",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "リン",
+      "わ"
+    ],
+    "meanings": [
+      "wheel",
+      "ring",
+      "circle",
+      "link",
+      "loop",
+      "counter for wheels and flowers"
+    ]
+  },
+  {
+    "char": "類",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ルイ",
+      "たぐ.い"
+    ],
+    "meanings": [
+      "sort",
+      "kind",
+      "variety",
+      "class",
+      "genus"
+    ]
+  },
+  {
+    "char": "令",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "レイ"
+    ],
+    "meanings": [
+      "orders",
+      "laws",
+      "command",
+      "decree",
+      "good"
+    ]
+  },
+  {
+    "char": "例",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "レイ",
+      "たと.える"
+    ],
+    "meanings": [
+      "example",
+      "custom",
+      "usage",
+      "precedent"
+    ]
+  },
+  {
+    "char": "冷",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "レイ",
+      "つめ.たい",
+      "ひ.える",
+      "ひ.や",
+      "ひ.ややか",
+      "ひ.やす",
+      "ひ.やかす",
+      "さ.める",
+      "さ.ます"
+    ],
+    "meanings": [
+      "cool",
+      "cold (beer, person)",
+      "chill"
+    ]
+  },
+  {
+    "char": "礼",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "レイ",
+      "ライ"
+    ],
+    "meanings": [
+      "salute",
+      "bow",
+      "ceremony",
+      "thanks",
+      "remuneration"
+    ]
+  },
+  {
+    "char": "列",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "レツ",
+      "レ"
+    ],
+    "meanings": [
+      "file",
+      "row",
+      "rank",
+      "tier",
+      "column"
+    ]
+  },
+  {
+    "char": "練",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "レン",
+      "ね.る",
+      "ね.り"
+    ],
+    "meanings": [
+      "practice",
+      "gloss",
+      "train",
+      "drill",
+      "polish",
+      "refine"
+    ]
+  },
+  {
+    "char": "連",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "レン",
+      "つら.なる",
+      "つら.ねる",
+      "つ.れる",
+      "-づ.れ"
+    ],
+    "meanings": [
+      "take along",
+      "lead",
+      "join",
+      "connect",
+      "party",
+      "gang",
+      "clique"
+    ]
+  },
+  {
+    "char": "路",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ロ",
+      "ル",
+      "-じ",
+      "みち"
+    ],
+    "meanings": [
+      "path",
+      "route",
+      "road",
+      "distance"
+    ]
+  },
+  {
+    "char": "労",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ロウ",
+      "ろう.する",
+      "いたわ.る",
+      "いた.ずき",
+      "ねぎら",
+      "つか.れる",
+      "ねぎら.う"
+    ],
+    "meanings": [
+      "labor",
+      "thank for",
+      "reward for",
+      "toil",
+      "trouble"
+    ]
+  },
+  {
+    "char": "老",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ロウ",
+      "お.いる",
+      "ふ.ける"
+    ],
+    "meanings": [
+      "old man",
+      "old age",
+      "grow old"
+    ]
+  },
+  {
+    "char": "六",
+    "grade": 1,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ロク",
+      "リク",
+      "む",
+      "む.つ",
+      "むっ.つ",
+      "むい"
+    ],
+    "meanings": [
+      "six"
+    ]
+  },
+  {
+    "char": "録",
+    "grade": 4,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ロク",
+      "しる.す",
+      "と.る"
+    ],
+    "meanings": [
+      "record"
+    ]
+  },
+  {
+    "char": "和",
+    "grade": 3,
+    "jlpt_old_scale": 2,
+    "readings": [
+      "ワ",
+      "オ",
+      "カ",
+      "やわ.らぐ",
+      "やわ.らげる",
+      "なご.む",
+      "なご.やか",
+      "あ.える"
+    ],
+    "meanings": [
+      "harmony",
+      "Japanese style",
+      "peace",
+      "soften",
+      "Japan"
+    ]
+  },
+  {
+    "char": "話",
+    "grade": 2,
+    "jlpt_old_scale": 4,
+    "readings": [
+      "ワ",
+      "はな.す",
+      "はなし"
+    ],
+    "meanings": [
+      "tale",
+      "talk"
+    ]
+  }
+]
